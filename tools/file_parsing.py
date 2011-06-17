@@ -11,7 +11,7 @@ def filter_articles(art_file, imp_file, out_file):
     important = []
     i = 0
     for line in imp_file:
-        important.append(line.rstrip("\n"))
+        important.append(line.rstrip("\n").strip())
         pbar.update(i)
         i += 1
     pbar.finish()
@@ -64,15 +64,9 @@ def parse_articles(art_file, morfologik_object):
     
     def get_bases_stats(article, df):
         tf = {}
-        words_list = regex.findall(article) + regex.findall(article)
+        words_list = regex.findall(article)
         for word in words_list:
-            base_forms = morfologik_object.get(word, [])
-            if word.istitle():
-                base_forms += morfologik_object.get(word.lower(), [])
-            if not base_forms:
-                base_forms = [word]
-                if word.istitle():
-                    base_forms += [word.lower()]
+            base_forms = [w.lower() for w in morfologik_object.get(word, [word])]
             for base in base_forms:
                 tf[base] = tf.setdefault(base, 0) + 1
         for base in tf.keys():
@@ -93,13 +87,67 @@ def parse_articles(art_file, morfologik_object):
         if line.startswith("##TITLE##"):
             new_title = line.lstrip("##TITLE##").rstrip("\n").strip()
             if article:
-                res[title] = get_bases_stats(article, df)
+                res[title] = get_bases_stats(title + " " + article, df)
                 article = ""
             title = new_title
         else:
             article += line
         pbar.update(i)
         i += 1
-    res[title] = get_bases_stats(article, df)
+    res[title] = get_bases_stats(title + " " + article, df)
     pbar.finish()
-    return (res, df)           
+    return (res, df)
+
+def filter_links(links_file, imp_file, output_file):
+    widgets = ['Parsing %s: ' % imp_file.name, Percentage(), ' ', 
+               Bar(marker=RotatingMarker()), ' ', ETA(), 
+               ' ', FileTransferSpeed()]
+    pbar = ProgressBar(widgets=widgets, maxval=int(getoutput("wc -l %s" % imp_file.name).split()[0])).start()
+    important = []
+    i = 0
+    for line in imp_file:
+        important.append(line.rstrip("\n").strip())
+        pbar.update(i)
+        i += 1
+    pbar.finish()
+    imp_article = False
+    widgets[0] = 'Parsing %s: ' % links_file.name
+    pbar = ProgressBar(widgets=widgets, maxval=int(getoutput("wc -l %s" % links_file.name).split()[0])).start()
+    i = 0
+    for line in links_file:
+        if not line.startswith(" "):
+            art = line.rstrip("\n").strip()
+            if art in important:
+                imp_article = True
+                output_file.write(line)
+            else:
+                imp_article = False
+        else:
+            if imp_article and line.rstrip("\n").strip() in important:
+                output_file.write(line)
+        pbar.update(i)
+        i += 1
+    pbar.finish()
+
+def parse_links(links_file):
+    widgets = ['Parsing %s: ' % links_file.name, Percentage(), ' ', 
+               Bar(marker=RotatingMarker()), ' ', ETA(), 
+               ' ', FileTransferSpeed()]
+    pbar = ProgressBar(widgets=widgets, maxval=int(getoutput("wc -l %s" % links_file.name).split()[0])).start()
+    links_dict = {}
+    article = ""
+    links = []
+    i = 0
+    for line in links_file:
+        if not line.startswith(" "):
+            if article:
+                links_dict[article] = links
+            article = line.rstrip("\n").strip()
+            links = []
+        else:
+            links.append(line.rstrip("\n").lstrip("\t").strip())
+        pbar.update(i)
+        i += 1
+    if article:
+        links_dict[article] = links
+    return links_dict
