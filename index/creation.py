@@ -1,6 +1,8 @@
 # -*- encoding: utf-8 -*-
 from math import log10
 from searching import vectors_sim_list
+from progressbar import Percentage, Bar, RotatingMarker, ETA, FileTransferSpeed, ProgressBar
+from commands import getoutput
 
 ALFA = 0.1
 TRESHOLD = 0.99
@@ -8,12 +10,20 @@ TRESHOLD = 0.99
 def create_index(art_dict, df):
     index = {}
     articles = len(art_dict.keys())
+    widgets = ['Creating index: ' , Percentage(), ' ', 
+               Bar(marker=RotatingMarker()), ' ', ETA(), 
+               ' ', FileTransferSpeed()]
+    pbar = ProgressBar(widgets=widgets, maxval=articles).start()
+    i = 0
     for article, base_forms_freq in art_dict.iteritems():
         tf_idf_vector = {}
         for base, freq in base_forms_freq.iteritems():
             tf_idf_vector[base] = freq * log10(articles / df[base])
         for base in base_forms_freq.keys():
             index[base] = index.setdefault(base, []) + [(article, tf_idf_vector)]
+        pbar.update(i)
+        i += 1
+    pbar.finish()
     return index
 
 def create_page_rank_matrix(links_dict):

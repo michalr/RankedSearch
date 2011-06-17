@@ -1,0 +1,5104 @@
+QUERY: programowanie funkcjonalne
+Sather
+John Backus
+Programowanie funkcyjne
+Programowanie aspektowe
+Python
+MATLAB
+Oracle Forms
+IRMX
+System operacyjny
+Językoznawstwo
+IA-32
+
+
+QUERY: sowa przemądrzała
+Nowe przygody Kubusia Puchatka
+
+
+QUERY: wspinaczka piaskowcowa
+Wspinaczka piaskowcowa
+Wspinaczka
+Sprzęt wspinaczkowy
+Góry Stołowe
+
+
+QUERY: ultramaraton
+Ultramaraton
+Marathon des Sables
+Barbara Szlachetka
+Pasmo Bighorn
+
+
+QUERY: trurl
+Cyberiada
+Victim of the Brain
+Bajki robotów
+Stanisław Lem
+Droga do science fiction
+
+
+QUERY: algorytm niedeterministyczny
+Klasa złożoności
+Algorytm szeregowania
+Automat Büchiego
+Deterministyczny automat skończony
+Problem NP
+Kodowanie Huffmana
+Język kontekstowy
+Hipoteza Churcha-Turinga
+Język formalny
+Maszyna Turinga
+Wyrażenie regularne
+Gramatyka regularna
+Izomorfizm grafów
+Parser LR
+Graf (matematyka)
+Przegląd zagadnień z zakresu statystyki
+
+
+QUERY: deterministyczny automat skończony
+Niedeterministyczny automat skończony
+Automat Büchiego
+Automat skończony
+Deterministyczny automat skończony
+Automat Mealy'ego
+Dana Scott
+Język regularny
+Twierdzenie Myhilla-Nerode'a
+Automat Moore'a
+Determinizacja automatu skończonego
+Teoria obliczalności
+Język formalny
+Lemat o pompowaniu dla języków regularnych
+Wyrażenie regularne
+Hierarchia Chomsky'ego
+Gramatyka regularna
+Parser LR
+Maszyna Turinga
+Język bezkontekstowy
+Graf (matematyka)
+
+
+QUERY: piątek z pankracym
+Pankracy
+Piątek z Pankracym
+Hubert Antoszewski
+Radiowe i telewizyjne programy dla dzieci
+Bohdan Radkowski
+Maciej Zimiński
+Zygmunt Kęstowicz
+Archiwalne audycje TVP
+Wieczorynka
+Programy TVP
+
+
+QUERY: programowanie deklaratywne
+Programowanie deklaratywne
+Paradygmat programowania
+Programowanie logiczne
+Programowanie funkcyjne
+Cfengine
+Kompletność Turinga
+Sztuczna inteligencja
+
+
+QUERY: elektrybałt
+Cyberiada
+Droga do science fiction
+
+
+QUERY: boczek wędzony
+Boczek
+Sztufada
+Kapuśniak
+Szałot śląski
+Soul food
+Żur
+Bliny żmudzkie
+Kuchnia niemiecka
+Podróże kulinarne Roberta Makłowicza
+
+
+QUERY: hodowla zwierzątek
+Działy specjalne produkcji rolnej
+Karol Borsuk
+
+
+QUERY: programowanie logiczne
+Programowanie logiczne
+Paradygmat programowania
+Literał logiczny
+Modula
+Test pokrycia warunków logicznych
+Programowanie imperatywne
+Operator (programowanie)
+Podprogram
+Python
+Prolog (język programowania)
+C++
+Jednostka leksykalna
+Notacja polska
+Perforacja
+Ocaml
+Klauzula Horna
+Programowanie aspektowe
+Rachunek lambda
+Kompletność Turinga
+Sztuczna inteligencja
+Maszyna RAM
+Scheme
+Trwała struktura danych
+System operacyjny
+Obliczenia równoległe
+Common Lisp
+IA-32
+RS-232
+Językoznawstwo
+Atari ST
+
+
+QUERY: programowanie funkcyjne
+Programowanie funkcyjne
+Unlambda
+Paradygmat programowania
+F Sharp
+Scala (język programowania)
+Wyrażenie (informatyka)
+Programowanie imperatywne
+Nemerle
+Programowanie obiektowe
+Standard ML
+Haskell
+Instrukcja (informatyka)
+Meta Language
+Podprogram
+Python
+Currying
+Trwała struktura danych
+Algorytm in situ
+Boost
+Ocaml
+Lukier składniowy
+MATLAB
+Perl
+Kompletność Turinga
+Rekurencja
+Scheme
+Iterator
+XSL
+Common Lisp
+Tcl
+Rachunek lambda
+
+
+QUERY: klaudiusz i messalina
+Klaudiusz i Messalina
+Klaudiusz (cesarz)
+Ja, Klaudiusz (serial telewizyjny)
+Ja, Klaudiusz
+Valeria Messalina
+Elia Petyna
+Gajusz Apiusz Juniusz Sylan
+Klaudia Antonia
+Oktawia (córka Klaudiusza)
+Domicja Lepida
+1934 w literaturze
+Julia Helena
+Robert Graves
+Oktawia
+Julia Liwilla
+Ireneusz Wójcicki
+Domicja
+Tytus Flawiusz
+
+
+QUERY: dyskietka komputerowa
+Stacja dyskietek
+Misja Harolda
+Verbatim
+Gra na komputery osobiste
+Amiga 500
+Fred Fish
+Freesco
+Amiga 500+
+Pamięć USB
+Electra (miesięcznik)
+Mystery House
+Amiga 1000
+Historia gier komputerowych
+Brutalna gra (film)
+Robbo
+Amiga 1200
+Commodore 64
+Commodore International
+Zapaść gier wideo w 1983
+System plików
+Ośrodek Dokumentacji Wychodźstwa Polskiego
+Atari ST
+Commodore PET
+Publikacje Świadków Jehowy
+Homeopatia
+
+
+QUERY: jajko na miękko
+Jajko (kulinaria)
+Dieta wątrobowa
+Tim Tam
+Fonetyka języka polskiego
+
+
+QUERY: sos majonezowy
+Sos
+Sos majonezowy
+Sałata rzymska
+Takoyaki
+Hot dog
+Czosnek pospolity
+
+
+QUERY: test pilota pirxa
+Test pilota Pirxa
+Opowieści o pilocie Pirxie
+Siergiej Desnicki
+Ferdynand Matysik
+Henryk Talar
+Eugeniusz Kujawski
+Janusz Bylczyński
+1978 w filmie
+Stanisław Lem
+Studio Voiceland
+
+
+QUERY: niedeterministyczny automat skończony
+Niedeterministyczny automat skończony
+Automat Büchiego
+Automat skończony
+Deterministyczny automat skończony
+Automat Mealy'ego
+Dana Scott
+Język regularny
+Twierdzenie Myhilla-Nerode'a
+Automat Moore'a
+Determinizacja automatu skończonego
+Teoria obliczalności
+Język formalny
+Lemat o pompowaniu dla języków regularnych
+Wyrażenie regularne
+Hierarchia Chomsky'ego
+Gramatyka regularna
+Parser LR
+Maszyna Turinga
+Język bezkontekstowy
+Graf (matematyka)
+
+
+QUERY: kredki pastelowe
+Malarstwo kredkami
+Kredka
+Pastel
+
+
+QUERY: page fault
+Page & Plant
+Led Zeppelin DVD
+Presence
+Latter Days: Best of Led Zeppelin Volume Two
+Memory management unit
+
+
+QUERY: pająk czarna wdowa
+Czarna wdowa
+Nasosznik trzęś
+Johan Christian Fabricius
+Ubarwienie ostrzegawcze
+Karadah
+
+
+QUERY: piękność dnia
+Mała Miss
+Catherine Deneuve
+Mirosław Szymkowiak
+Złoty Lew
+1967 w filmie
+Shrek
+Mroczne przygody Billy'ego i Mandy
+Kot burmski
+
+
+QUERY: algorytm sortowania
+Sortowanie
+Sortowanie zewnętrzne
+Pbit
+Niestabilny algorytm sortowania
+Sortowanie szybkie
+Sortowanie Shella
+Sortowanie koktajlowe
+Sortowanie gnoma
+Algorytm malarza
+Sortowanie pozycyjne
+Algorytm scalania
+Algorytm
+Sortowanie biblioteczne
+Sortowanie przez scalanie
+Sortowanie polifazowe
+Algorytm Kruskala
+Sortowanie przez kopcowanie
+Sortowanie bąbelkowe
+Dziel i zwyciężaj
+Sortowanie introspektywne
+Bogosort
+Sortowanie przez wstawianie
+Sortowanie kubełkowe
+Problem plecakowy
+Bzip2
+Sortowanie topologiczne
+Algorytm Grahama
+C.A.R. Hoare
+Algorytm DSW
+Binary Space Partitioning
+The Art of Computer Programming
+Sztuczna inteligencja
+C++
+Python
+
+
+QUERY: text mining
+Text mining
+Analiza koszykowa
+Przegląd zagadnień z zakresu statystyki
+
+
+QUERY: przetwarzanie języka naturalnego
+Język formalny
+Językoznawstwo
+Text mining
+Japonia
+Modular Audio Recognition Framework
+Korpus (językoznawstwo)
+Programowanie obiektowe
+Institut national des Langues et Civilisations orientales
+Instytut Informatyki im. Maxa Plancka
+Synteza mowy
+Biblioteka Inżynierii Oprogramowania
+Algorytm
+Przypisanie
+Maszyna Turinga
+Bot (IRC)
+Parser LR
+Historia matematyki
+Przegląd zagadnień z zakresu statystyki
+
+
+QUERY: synteza mowy
+Synteza mowy
+Mowa (językoznawstwo)
+Raymond Kurzweil
+Ivo Software
+Vocoder
+Normalizacja tekstu
+Black Box
+Czas rzeczywisty
+MOS Technology SID
+Wpkontakt
+VoiceXML
+Renault 25
+Videopac
+Sieć neuronowa
+Sztuczna inteligencja
+Językoznawstwo
+Renault Safrane
+Kampania wrześniowa
+
+
+QUERY: ciąg rosnący ograniczony
+Polska
+Aksjomat ciągłości
+I wojna światowa
+Twierdzenie Lebesgue'a o zbieżności monotonicznej
+Meksyk
+Szereg (matematyka)
+Kodowanie Huffmana
+Język formalny
+Obliczenia równoległe
+Dolny Śląsk
+MPEG
+IA-32
+Wałbrzych
+Historia matematyki
+Czosnek pospolity
+Dialekt północnokresowy
+Dorsz atlantycki
+Tarnogród
+Przegląd zagadnień z zakresu statystyki
+
+
+QUERY: hipoteza continuum cohen
+Hipoteza continuum
+Paul Cohen
+Teoria mnogości
+Moc zbioru
+Teoria modeli
+Forsing
+Historia matematyki
+
+
+QUERY: paradoksalny rozkład
+Paradoks Banacha-Tarskiego
+Własność Baire'a
+Aksjomat wyboru
+Teoria mnogości
+
+
+QUERY: złożoność kołmogorowa
+Złożoność Kołmogorowa
+Andriej Kołmogorow
+Losowość
+Teoria informacji
+Kompresja bezstratna
+Przegląd zagadnień z zakresu statystyki
+
+
+QUERY: współczynnik odpadnięcia
+Współczynnik odpadnięcia
+Odpadnięcie (wspinaczka)
+Testowanie lin wspinaczkowych
+Via ferrata
+Lonża (wspinaczka)
+Absorber energii
+Lina (wspinaczka)
+
+
+QUERY: system operacyjny czasu rzeczywistego
+System operacyjny czasu rzeczywistego
+RTEMS
+System operacyjny
+System czasu rzeczywistego
+DRYOS
+Czas rzeczywisty
+Polska
+VxWorks
+IRMX
+QNX
+ChorusOS
+Microsoft Windows
+RTKernel
+System rozproszony
+Phoenix-RTOS
+Jądro systemu operacyjnego
+Jądro monolityczne
+SenseOS
+IO.SYS
+Microsoft Windows CE
+Komputer przemysłowy
+Mikrokomputery
+Algorytm szeregowania
+Memory management unit
+IA-32
+C++
+Gra na komputery osobiste
+Algorytm
+Historia gier komputerowych
+MPEG
+Bot (IRC)
+
+
+QUERY: prędkość roweru
+Rower poziomy
+Rower
+Freeride
+Ukraina (rower)
+Kolarstwo ekstremalne
+BMX
+Trasa rowerowa bulwarów wiślanych
+Kolarstwo szosowe
+Dynamo rowerowe
+Tour de France
+
+
+QUERY: mistrz klawiatury
+Sifo-Dyas
+Ignacy Jan Paderewski
+Antoni Szuniewicz
+Yes
+
+
+QUERY: licytacja w brydżu
+Licytacja (gry)
+Brydż
+Pas (karty)
+Plafond
+Okszen
+Wist (gra)
+Licytacja naturalna
+Terminologia brydżowa
+Licytacja (brydż)
+Kontra Lightnera
+Gra karciana
+
+
+QUERY: zupa pomidorowa
+Zupa
+Zupa pomidorowa
+Lane ciasto
+Uszka
+Podróże kulinarne Roberta Makłowicza
+Kuchnia czeska
+Boże Narodzenie we Włoszech
+Muzeum Rekordów i Osobliwości
+Sos
+Bruce Wszechmogący
+Dieta wątrobowa
+Andy Warhol
+Ślimaki w kuchni
+
+
+QUERY: rosół z makaronem
+Rosół
+Lane ciasto
+Ramen
+Zupa pomidorowa
+Kuchnia wietnamska
+Dieta wątrobowa
+Podróże kulinarne Roberta Makłowicza
+
+
+QUERY: biała kiełbasa
+Kiełbasa
+Biała kiełbasa
+Niemcy
+Żur
+Kuchnia niemiecka
+Barszcz biały z kiszonej kapusty
+Zażynki
+Drugie śniadanie
+Podróże kulinarne Roberta Makłowicza
+Dieta wątrobowa
+13 posterunek
+Ślimaki w kuchni
+Ruch Chorzów
+
+
+QUERY: wódka żołądkowa gorzka
+Bylica piołun
+
+
+QUERY: naleśniki z serem
+Naleśnik
+Podkurek
+Podwieczorek
+Chanuka
+Dieta wątrobowa
+Boże Narodzenie na Ukrainie
+Jajko (kulinaria)
+
+
+QUERY: algorytm kompresji stratnej
+Kompresja (informatyka)
+Kompresja stratna
+Kompresja falkowa
+JPEG
+Bitmapa
+Kompresja bezstratna
+Artefakt (informatyka)
+Kodowanie Huffmana
+Musepack
+AAC
+NEF (fotografia)
+DVD-Video
+Cyfrowy znak wodny
+Mnożenie macierzy
+P2P
+
+
+QUERY: funkcja haszująca
+Funkcja skrótu
+Zmienna (informatyka)
+Second preimage resistance
+
+
+QUERY: drzewo poszukiwań binarnych
+Przechodzenie drzewa
+Algorytm DSW
+Drzewo AVL
+Drzewo czerwono-czarne
+Drzewo splay
+Binarne drzewo poszukiwań
+Algorytm
+Graf (matematyka)
+
+
+QUERY: kostium kąpielowy
+Bikini
+Burkini
+1946
+Trykot
+Amy Weber
+Nina Mercedez
+Błąd w prawie cywilnym
+Marilyn Monroe
+Szał uniesień
+
+
+QUERY: życie w słoiku
+Irena Sendlerowa
+Hellboy
+13 posterunek
+Szpital na perypetiach
+
+
+QUERY: masyw sokoliki
+Sokolik
+Góry Sokole
+Rudawy Janowickie
+Kazimierz Głazek
+
+
+QUERY: naga kobieta na koniu
+Japonia
+Szał uniesień
+Władysław Podkowiński
+Wilczyca (film)
+Rokoko
+Szpital na perypetiach
+
+
+QUERY: przeciwdziałanie przemocy w rodzinie
+Przemoc domowa
+Sytuacja prawna i społeczna osób LGBT w Irlandii
+
+
+QUERY: śledzie w śmietanie
+Bliny
+Wielki Post
+Dieta wątrobowa
+Podróże kulinarne Roberta Makłowicza
+
+
+QUERY: limity na połów dorsza
+Dorsz atlantycki
+Kłusownictwo
+
+
+QUERY: walka z gorączką
+Gorączka krwotoczna
+Western
+Wilczyca (film)
+PPS-Rewolucja Demokratyczna
+
+
+QUERY: uzbrojenie gladiatorów
+Gloster Gladiator
+Velles (gladiator)
+Hoplomachus
+World Eaters
+Samolot myśliwski
+Bristol Bulldog
+Karabin maszynowy Chauchat
+Praetorians
+
+
+QUERY: człowiek słoń
+Słoń afrykański
+Słoń indyjski
+Słoń bojowy
+Cmentarzysko słoni
+Człowiek słoń
+53. Ceremonia wręczenia Oscarów
+Frederick Treves
+Film psychologiczny
+John Hurt
+David Lynch
+I bitwa pod Panipatem
+Szczeliniec Wielki
+Śpiwór
+Joseph Merrick
+Stuart Craig
+Wojna Kurukszetra
+Zespół Proteusza
+1980 w filmie
+Domestykacja zwierząt
+Budda Siakjamuni
+Anthony Hopkins
+Kara śmierci
+Nerwiakowłókniakowatość typu 1
+Pagoda Shwe Dagon
+Kot burmski
+Pismo chińskie
+Tonpress
+
+
+QUERY: film człowiek słoń
+Słoń bojowy
+Cmentarzysko słoni
+Człowiek słoń
+53. Ceremonia wręczenia Oscarów
+Frederick Treves
+Film psychologiczny
+David Lynch
+John Hurt
+Stuart Craig
+Joseph Merrick
+1980 w filmie
+Zespół Proteusza
+Anthony Hopkins
+Tonpress
+
+
+QUERY: waga słonia
+Słoń afrykański
+Cetiozaur
+Pagoda Shwe Dagon
+Czołg super-ciężki
+Kara śmierci
+Pismo chińskie
+
+
+QUERY: funkcja pierwotnie rekurencyjna
+Funkcja rekurencyjna
+Funkcja Ackermanna
+Funkcja Sudana
+Teoria obliczeń
+Thoralf Skolem
+
+
+QUERY: czarna wołga
+Wołga GAZ
+Czarna wołga
+Czarne helikoptery
+Miejska legenda
+Miki Mousoleum
+Kałmucja
+Dunaj
+Lista odcinków serialu Detektywi
+Protobułgarzy
+P.O.L.O.V.I.R.U.S.
+
+
+QUERY: problem stopu
+Problem stopu
+Problem decyzyjny (teoria obliczeń)
+Teoria obliczalności
+Rozstrzygalność
+Teoria obliczeń
+Japonia
+Axel Thue
+Hipoteza Churcha-Turinga
+Problem nierozstrzygalny
+Złożoność Kołmogorowa
+Bezpieczeństwo teleinformatyczne
+Emil Leon Post
+Maszyna Turinga
+Entezopatie
+Endless Highway
+Lublin
+Kompletność Turinga
+Meksyk
+New Balance
+John Charles
+Chłodzenie wodne
+Oktawian August
+Wolfgang Amadeusz Mozart
+Dowód poprawności algorytmu
+Allozaur
+Wojciech Szczepaniak
+Logika matematyczna
+Władysław Sikorski
+Michael Jackson
+Dowód (matematyka)
+Marilyn Monroe
+Lockheed P-38 Lightning
+Lockheed C-5 Galaxy
+Cartoon Network
+Przegląd zagadnień z zakresu statystyki
+Freddie Mercury
+De Havilland Mosquito
+Szpital na perypetiach
+Ansel Adams
+Historia polskiej żandarmerii
+Przewody trakcyjne
+Tonpress
+Historia kolei
+Kość do gry
+Dziki Bill Hickok
+
+
+QUERY: mickiewicz
+Adam Mickiewicz
+Legion Mickiewicza
+Kolumna Adama Mickiewicza we Lwowie
+Władysław Mickiewicz
+Polska
+Pomnik Adama Mickiewicza w Szczecinie
+Walantyn Mickiewicz
+Osiedle Mickiewicza (Piotrków Trybunalski)
+Ulica Adama Mickiewicza w Słubicach
+Romantyczność (Mickiewicz)
+Park miejski im. Adama Mickiewicza w Sanoku
+V Liceum Ogólnokształcące im. Adama Mickiewicza w Częstochowie
+Julian Mickiewicz
+Gimnazjum im. Adama Mickiewicza w Wilnie
+Wydział Filozoficzno-Historyczny Uniwersytetu im. Adama Mickiewicza
+Batalion im. Adama Mickiewicza
+Telesfor Mickiewicz
+Kopiec Adama Mickiewicza w Sanoku
+Piotr Mickiewicz
+Trzynastozgłoskowiec
+XIII Księga Pana Tadeusza
+Poznań
+Instytut Historii Sztuki Uniwersytetu im. Adama Mickiewicza
+Katedra Muzykologii Uniwersytetu im. Adama Mickiewicza
+Instytut Wschodni Uniwersytetu im. Adama Mickiewicza
+Instytut Prahistorii Uniwersytetu im. Adama Mickiewicza
+Scyzoryk
+Baranek (piosenka)
+René Duguay-Trouin
+Zakład Kultury i Myśli Politycznej Uniwersytetu im. Adama Mickiewicza
+Instytut Etnologii i Antropologii Kulturowej Uniwersytetu im. Adama Mickiewicza
+23 września
+Naukowe Koło Chemików Wydziału Chemii Uniwersytetu im. Adama Mickiewicza
+Aleksander Radczenko
+Źródło (album)
+Michał Rowiński
+Henryk Talar
+Michał Żebrowski (aktor)
+Zakład Historii Europy Wschodniej Uniwersytetu im. Adama Mickiewicza
+15 października
+Ignacy Jan Paderewski
+Zbigniew Piotrowicz
+Bydgoszcz
+Adam Asnyk
+Jakub Böhme
+Mont Blanc
+Instytut Historii Uniwersytetu im. Adama Mickiewicza
+Bigos
+Piotr Czajkowski
+Duszniki-Zdrój
+I Liceum Ogólnokształcące im. Jana Kasprowicza w Inowrocławiu
+Zofia Lissa
+Krotoszyn
+Związek Polaków na Białorusi
+Opole Lubelskie
+Institut national des Langues et Civilisations orientales
+Jan Frycz
+VIII Liceum Ogólnokształcące im. Władysława IV w Warszawie
+Jacek Kaczmarski
+Dialekt północnokresowy
+Zabytki Warszawy
+Historia Warszawy
+Jaworzno
+Walerian Borowczyk
+I Liceum Ogólnokształcące im. Adama Asnyka w Kaliszu
+Władysław Starewicz
+Historia Rzeszowa
+Kalendarium historii Grajewa
+Autobusy w Gdańsku
+Ośrodek religijny w Bydgoszczy
+Iliada
+Szpital na perypetiach
+PPS-Rewolucja Demokratyczna
+
+
+QUERY: prus
+Bolesław Prus
+Polska
+Marcin Prus
+Amerykańscy ambasadorzy w Królestwie Prus
+Anna Prus
+Niemcy
+Maciej Prus
+Andrzej Prus
+3 Pułk Piechoty Królestwa Prus
+2 Przyboczny Pułk Huzarów im. Królowej Prus Wiktorii
+Ziemie Odzyskane
+Herman von Balk
+Prus II Wilczekosy
+4 Pułk Piechoty Królestwa Prus
+I wojna światowa
+1918
+Franz Pabel
+Kościół św. Michała Archanioła we Wrocławiu
+Poznań
+Fort Karola
+Ryszard Kaczmarek
+Bezrzecze (powiat policki)
+Historia Bydgoszczy
+Edward Prus
+Pomnik Adama Mickiewicza w Szczecinie
+9 maja
+Lublin
+23 września
+Gott mit uns
+Brama Królewska w Szczecinie
+Kampania wrześniowa
+13 stycznia
+Góry Stołowe
+15 października
+Front wschodni (II wojna światowa)
+Karpniki
+Wolfgang Amadeusz Mozart
+Bydgoszcz
+Naczelna Komenda Organizacji Harcerskiej na Warmię i Mazury
+Historia Warszawy
+26 września
+Browar Kętrzyn
+Władysław Sikorski
+Państwa Osi
+Twierdza Kołobrzeg
+Tomasz Marzecki
+I Liceum Ogólnokształcące im. Jana Kasprowicza w Inowrocławiu
+Duszniki-Zdrój
+Roztoka (województwo dolnośląskie)
+Wałbrzych
+Historia kolei w Niemczech
+Dolny Śląsk
+Jaworzno
+Kara śmierci
+Rokoko
+Klan Gordon
+Dzieciaki z klasy 402
+Gramatyka języka polskiego
+Zmarli w roku 2008
+
+
+QUERY: klauzula horna
+Klauzula Horna
+Klauzula (matematyka)
+Klauzula dualna
+CASC
+Prolog (język programowania)
+
+
+QUERY: asnyk
+Adam Asnyk
+Osiedle Adama Asnyka (Kalisz)
+Polska
+I Liceum Ogólnokształcące im. Adama Asnyka w Kaliszu
+Ulica Legionów w Kaliszu
+V Liceum Ogólnokształcące im. Adama Asnyka w Szczecinie
+Plac Jana Pawła II w Kaliszu
+Ulica Polna w Kaliszu
+Ulica Górnośląska w Kaliszu
+Architektura Legnicy
+Cmentarz żydowski na Czekaju w Rzeszowie
+Henryk Jedwab
+Browar Kętrzyn
+Uniwersytet Wrocławski
+Adam Sztark
+Jędrzej Wala starszy
+Stanisław Krzemiński
+Baruch Kolski
+Żelazne Wrota (przełęcze)
+Jan Walter (duchowny luterański)
+Jerzy Pertkiewicz
+Zbigniew Herbert
+Wałbrzych
+
+
+QUERY: warszawa
+Warszawa
+Historia Warszawy
+Polska
+Szybka Kolej Miejska w Warszawie
+Podział administracyjny Warszawy
+Niemcy
+Agnieszka Grochowska
+II wojna światowa
+2000 w literaturze
+Herbert Marcuse
+1993
+1999
+Andrzej Prus
+1920
+Stare Miasto w Warszawie
+Edmund Fetting
+1946
+Leszek Kołakowski
+Stanisław Jasiukiewicz
+Kolumna Zygmunta III Wazy w Warszawie
+Irena Sendlerowa
+1972
+I wojna światowa
+Janusz Bylczyński
+Aglomeracja warszawska
+Japonia
+VIII Liceum Ogólnokształcące im. Władysława IV w Warszawie
+Jacek Kleyff
+Natalia Gąsiorowska
+Zbigniew Herbert
+Jan Walter (duchowny luterański)
+Jan Kiepura
+Karol Borsuk
+Poznań
+Helena Rasiowa
+1915
+Tytus Flawiusz
+1918
+Charles Fourier
+Aniela Świderska
+Gabriela Kulka
+Ludność Warszawy
+Stanisław Krzemiński
+1916
+Kampania wrześniowa
+Hufiec ZHP Warszawa Mokotów
+Polski Komitet Pomocy Społecznej
+1917
+Sztuka przetrwania
+1914
+Wyższe uczelnie w Warszawie
+Henryk Alber
+Bolesław Prus
+Literał logiczny
+Oktawian August
+Język polski
+Henryk Bąk (aktor)
+Jerzy Pertkiewicz
+Zygmunt Kęstowicz
+Michał Rowiński
+PPS-Rewolucja Demokratyczna
+Stanisława Celińska
+Placówki dyplomatyczne i konsularne w Polsce: B
+Zygmunt Zieliński (generał LWP)
+Lublin
+Tadeusz Chyliński
+9 maja
+Henryk Talar
+Mieczysław Honzatko
+Agnieszka Holland
+Jerzy Janicki
+Jacek Kaczmarski
+Fundacja Bank Żywności SOS w Warszawie
+Przemoc domowa
+Agnieszka Osiecka
+Zygmunt Klukowski
+Michał Żebrowski (aktor)
+Jan Raczkowski
+Bohdan Radkowski
+23 września
+Ignacy Jan Paderewski
+Bakalland
+Wojciech Duryasz
+Jacek Rozenek
+Zupa nic
+Klaudiusz (cesarz)
+Zofia Lissa
+Agnieszka Wagner
+Edward Kłosiński
+Roman Sikorski
+Maciej Zimiński
+Gajusz Juliusz Cezar
+Meksyk
+Pawieł Muchanow
+Danuta Rinn
+Maciej Prus
+Black Box
+Polsat
+Wanda Rutkiewicz
+Stowarzyszenie Harcerskie
+Wincenty Dunikowski-Duniko
+10 stycznia
+The Art of Computer Programming
+Piotr Mickiewicz
+86 bateria artylerii przeciwlotniczej
+Iwona Petry
+Wielka Orkiestra Świątecznej Pomocy
+13 stycznia
+Krzysztof Szmagier
+Naomi Klein
+15 kwietnia
+Maria Peszek
+9 września
+Krzysztof Komeda
+TVN
+Kuba Sienkiewicz
+Góry Stołowe
+Analiza literacka
+Sułkowice (województwo mazowieckie)
+Wolfgang Amadeusz Mozart
+Szubienica
+Młodzież Wszechpolska
+Janusz Gajos
+Ryszard Bacciarelli
+Włodzimierz Zagórski (satyryk)
+Kazimierz Głazek
+Władysław Sikorski
+Kabaret Moralnego Niepokoju
+Przypisanie
+Paulina Młynarska-Moritz
+Wędrówki Pyzy
+Prus II Wilczekosy
+Jerzy Owsiak
+Bydgoszcz
+Fonetyka języka polskiego
+Rocznik Statystyczny Rzeczypospolitej Polskiej
+Władysław Mickiewicz
+22 listopada
+Teresa Lipowska
+Tobiaszowe noce
+Jan Kopyto
+Motorola
+Skala (przedsiębiorstwo)
+Czarna wołga
+Pułk
+Krzyżna Góra
+Leszek Bogdanowicz
+Elektryczne Gitary
+Zakład Historii Europy Wschodniej Uniwersytetu im. Adama Mickiewicza
+Zofia Sutorowska
+Zygmunt Apostoł
+Władysław Podkowiński
+Polityka pronatalistyczna
+Polska Partia Pracy
+Agnieszka Włodarczyk
+6 Wileńska Brygada AK
+Aleksander Fredro
+Polskie Stowarzyszenie Przyjaciół Indian
+Podróż Apostolska Jana Pawła II do Polski (II)
+Stanisław Tym
+Szał uniesień
+Manifest komunistyczny
+Tiglatpilesar I
+Maciej Słomczyński
+Aleksander Radczenko
+Maria Chwalibóg
+Obiektowość
+Gra planszowa
+Walantyn Mickiewicz
+Kubuś Puchatek
+Front zachodni (II wojna światowa)
+Julian Mickiewicz
+Daniel Olbrychski
+IRMX
+Wojna domowa (serial telewizyjny)
+Johann Sebastian Bach
+Made in Poland (grupa muzyczna)
+Ruch Solidarności z Ubogimi Trzeciego Świata MAITRI
+Księga Rodzaju
+Agnieszka Krukówna
+Nieustraszeni pogromcy wampirów
+Dunaj
+Prawo pierwszej nocy
+Abraham Neuman
+Prognozowanie analogowe
+Wehrmacht
+Wiedźmin (film)
+Prometeusze
+Epos o Gilgameszu
+Enigma
+Zakład Kultury i Myśli Politycznej Uniwersytetu im. Adama Mickiewicza
+Powiat ząbkowicki
+Edyta Olszówka
+B'nai B'rith (Polska)
+1967 w filmie
+Stanisław Staszewski
+Bill Clinton
+Klemens XIII
+Front wschodni (II wojna światowa)
+Kampus Ochota
+Zabytki Warszawy
+Józef Flawiusz
+Adam Asnyk
+Lluís Llach
+Gieorgij Żukow
+Historia polskiej żandarmerii
+Walerian Borowczyk
+Homoseksualizm a kontekst kulturowy
+Średniowiecze
+Sekcja (rewolucja francuska)
+Kukawka kalifornijska
+Ciąg Cauchy'ego
+Teoria informacji
+Depeche Mode
+Edward Prus
+Wałbrzych
+Jan Frycz
+Taternicki klub harcerzy
+Pidżama Porno
+Baruch Steinberg
+Agnieszka Dygant
+Na dobre i na złe
+Ford FT-B
+Klan (serial telewizyjny)
+Paweł Drumlak
+Programy TVP
+Żelechów
+Ireneusz Wójcicki
+Naczelna Komenda Organizacji Harcerskiej na Warmię i Mazury
+Semafor (kolejnictwo)
+Tomasz Beksiński
+Pianista (film)
+Andrzej Żuławski
+Jan Borysewicz (muzyk)
+Tajny Hufiec Harcerzy
+Hieronim ze Strydonu
+Tygodnik Moralnego Niepokoju
+Annasz syn Annasza
+Bajtek
+Browar Kętrzyn
+Wacław Kowalski
+Dyskografia Jacka Kaczmarskiego
+George Patton
+Scytowie
+Awit Szubert
+Żandarmeria Wojskowa
+Bitwa nad Little Bighorn
+Kompletność Turinga
+Budda Siakjamuni
+Problem plecakowy
+Dębnik (województwo małopolskie)
+Klan Gordon
+Myśl.pl
+Jaworzno
+Ostatni kurs
+Historia Bydgoszczy
+Sortowanie polifazowe
+Powieszenie
+Yes
+Operator (programowanie)
+Wesele Figara (KV 492)
+William Griffith Wilson
+Rozstaw toru
+Tadeusz Nowakowski (polityk)
+Historia nauki
+Ania Nissan Micra Tour
+Przemysław Gintrowski
+Jaskółki i Amazonki
+Włochy w czasie II wojny światowej
+Ośrodek Dokumentacji Wychodźstwa Polskiego
+T-34
+I Liceum Ogólnokształcące im. Adama Asnyka w Kaliszu
+Pastel
+Samo Życie
+Instytut Etnologii i Antropologii Kulturowej Uniwersytetu im. Adama Mickiewicza
+Antykoncepcja
+Mistrzostwa Polski w szachach błyskawicznych
+Powstanie chłopskie pod wodzą Kostki-Napierskiego w 1651
+Ruch Chorzów
+13 posterunek
+Muzyka elektroniczna
+Freddie Mercury
+Baranów Sandomierski
+Marianne Faithfull
+Pismo chińskie
+Tomasz Szwed
+Oko (opowieść)
+Przewody trakcyjne
+Krotoszyn
+Gra karciana
+Szpital na perypetiach
+Service de Documentation Exterieure et de Contre-espionnage
+Rokoko
+Jakub Böhme
+Instytut Historii Uniwersytetu im. Adama Mickiewicza
+Gramatyka języka polskiego
+Parki i tereny leśne w Bydgoszczy
+TGV
+Pociąg
+Instytut Prahistorii Uniwersytetu im. Adama Mickiewicza
+Moonlight
+Elementy
+Historia Żelechowa
+Korneliusz Jemioł
+Iliada
+Zostać miss 2
+Materializm dialektyczny
+Agnieszka Radwańska
+Zmarli w roku 2008
+Pudel miniaturowy
+Béla Bartók
+Wegetarianizm
+Jimmy Somerville
+Kalendarium historii Grajewa
+Piotr Sławiński (poeta i historyk)
+Tonpress
+Władysław Starewicz
+Ośrodek religijny w Bydgoszczy
+Playboy Polska (miesięcznik)
+Henryk Chmielewski (rysownik)
+Historia Rzeszowa
+Galew (powiat turecki)
+Tarnogród
+Historia kolei
+Lokatorzy
+Protobułgarzy
+Sowina (powiat jasielski)
+Twierdza Kołobrzeg
+Historia kolei w Niemczech
+Grudzień 2004 w sporcie
+Obliczenia równoległe
+Autobusy w Gdańsku
+Lista standardów muzyki rozrywkowej i jazzowej
+Zmarli w roku 2006
+Niemieckie nazwy polskich miejscowości
+Publikacje Świadków Jehowy
+Święci i błogosławieni Kościoła katolickiego
+Postępowanie cywilne w Polsce
+
+
+QUERY: elektryczne gitary
+Dead Infection
+Sons of Azrael
+Virgin Steele
+Live at the Garden
+Jan Borysewicz (muzyk)
+Źródło (album)
+Na krzywy ryj
+Presence
+Bill Frisell
+Elektryczne Gitary
+Bill Kaulitz
+Historia grupy Pink Floyd
+A ty co
+28 maja
+Moonlight
+Yes
+Led Zeppelin DVD
+Freddie Mercury
+Jak to jest zrobione?
+
+
+QUERY: analiza niestandardowa
+Analiza literacka
+I wojna światowa
+Ultraprodukt
+Przegląd zagadnień z zakresu statystyki
+Microsoft Windows
+Językoznawstwo
+Logika matematyczna
+SolidWorks
+Synteza mowy
+Algorytm
+Teoria mnogości
+Historia matematyki
+Enigma
+Publikacje Świadków Jehowy
+Egzamin maturalny
+Komórka
+
+
+QUERY: łóżko wodne
+Łóżko
+Materac
+Japonia
+Kasztanowiec zwyczajny
+Izabela Klara Eugenia Habsburg
+
+
+QUERY: fraktal trójkąt
+Fraktal
+Trójkąt Sierpińskiego
+Wymiar podobieństwa
+Symetria
+Historia matematyki
+Ciąg Fibonacciego
+
+
+QUERY: arytmetyka presburgera
+Mojżesz Presburger
+Thoralf Skolem
+
+
+QUERY: broń gladiatora
+Gloster Gladiator
+Velles (gladiator)
+Kastet
+Nagolenniki
+World Eaters
+Trójząb
+Karabin maszynowy Chauchat
+Gunz The Duel
+Quo vadis
+Gajusz Juliusz Cezar
+Samolot myśliwski
+Oko (opowieść)
+Praetorians
+Oscar dla najlepszego aktora drugoplanowego
+Michael Jackson
+
+
+QUERY: walka żuków
+Stonka ziemniaczana
+Władysław Starewicz
+Tadeusz Chyliński
+Tonpress
+
+
+QUERY: baranek shaun
+Baranek Shaun
+Nick Park
+Wallace i Gromit
+Wallace i Gromit: Golenie owiec
+Cartoon Network
+
+
+QUERY: żwirek i muchomorek
+Bajki z mchu i paproci
+Zdeněk Smetana
+Václav Čtvrtek
+Piotr Zelt
+Ghost Master
+
+
+QUERY: język polski
+Język polski
+Polska
+Programowanie funkcyjne
+Językoznawstwo
+Język formalny
+Warszawa
+Dialekt północnokresowy
+Niemcy
+Język czeski
+Agnieszka
+5 maja
+Rosja
+C Sharp
+1972
+Polonizacja
+Zmarli w roku 2008
+1905
+26 lipca
+Fonetyka języka polskiego
+2 lipca
+Egzamin maturalny
+Japonia
+Michał Rowiński
+Wyrażenie regularne
+Publikacje Świadków Jehowy
+VIII Liceum Ogólnokształcące im. Władysława IV w Warszawie
+Biblia
+Władysław Mickiewicz
+1914
+Institut national des Langues et Civilisations orientales
+Poznań
+1917
+Adam Mickiewicz
+Literał logiczny
+Python
+1916
+Perl
+Logo (język programowania)
+Imagine (środowisko programistyczne)
+Michał Moskal
+Ośrodek Dokumentacji Wychodźstwa Polskiego
+2000 w literaturze
+Związek Polaków na Białorusi
+Edward Prus
+Michael Berkowitz
+Modular Audio Recognition Framework
+Zmarli w roku 2006
+Prolog (język programowania)
+Egzamin do państwowego zasobu kadrowego
+Dane Zajc
+Ultraprodukt
+Gramatyka języka polskiego
+Ignacy Jan Paderewski
+Kubuś Puchatek
+Hottentottenstottertrottelmutterbeutelrattenlattengitterkofferattentäter
+Zofia Lissa
+Maciej Słomczyński
+Notacja polska
+Kudowa-Zdrój
+Zofia Sutorowska
+Bydgoszcz
+MOS Technology SID
+Wikiwix
+V Liceum Ogólnokształcące im. Adama Mickiewicza w Częstochowie
+Sztuczna inteligencja
+Magia i Miecz (gra)
+Stanisław Lem
+Synteza mowy
+Jacek Kaczmarski
+Prawo i pięść
+Jan Kiepura
+Moherowe berety
+Wolfgang Amadeusz Mozart
+Opisowa teoria mnogości
+Historia Warszawy
+Rekurencja
+Krzysztof Komeda
+NIP
+Hieronim ze Strydonu
+Zohar
+Teoria mnogości
+LOGIA
+Romantyczność (Mickiewicz)
+Aleksander Fredro
+Microsoft Windows
+Teoria modeli
+Kocham Polskę
+Wehrmacht
+Zbigniew Herbert
+Janosch
+Munchkin
+Średniowiecze
+Szał uniesień
+Szybka Kolej Miejska w Warszawie
+Commodore 64
+Duszniki-Zdrój
+Młodzież Wszechpolska
+Ojciec chrzestny
+Historia polskiej żandarmerii
+Olsztyn (województwo śląskie)
+Johann Sebastian Bach
+Forsing
+Instytut Historii Uniwersytetu im. Adama Mickiewicza
+Tomasz Beksiński
+Dunaj
+Karkonosze
+Babie Doły
+Wampir
+Problem NP-trudny
+II Liceum Ogólnokształcące im. Generałowej Zamoyskiej i Heleny Modrzejewskiej w Poznaniu
+Enigma
+Wodospady Pośny
+Quo vadis
+Dakotowie
+Via ferrata
+Na dobre i na złe
+Historia Rzeszowa
+Wikipedia
+Babar - król słoni
+Iliada
+Szpital na perypetiach
+Antoni Szuniewicz
+Jakub Böhme
+Bezpieczeństwo teleinformatyczne
+Kiełbasa
+Klan (serial telewizyjny)
+Nagroda literacka Nike
+Shrek
+Pułk
+PictoChat
+Biblioteka Cyfrowa Uniwersytetu Wrocławskiego
+I Liceum Ogólnokształcące im. Adama Asnyka w Kaliszu
+Ośrodek religijny w Bydgoszczy
+Elementy
+Buszujący w zbożu
+The Pirate Bay
+Dolny Śląsk
+Nowe przygody Kubusia Puchatka
+Suma komandytowa
+Kość do gry
+Zawołanie bojowe klanów szkockich
+13 posterunek
+Programy TVP
+Historia nauki
+Cyberiada
+Mroczne przygody Billy'ego i Mandy
+Żelechów
+Rower
+Epos o Gilgameszu
+Sztuka iluzji
+Historia gier komputerowych
+Wilczyca (film)
+Gwiazdy tańczą na lodzie
+Béla Bartók
+Ślimaki w kuchni
+Fraktal
+Tarnogród
+Galew (powiat turecki)
+Kabała
+Wegetarianizm
+Dyskografia Jacka Kaczmarskiego
+Czołg
+Przeciszów
+TGV
+Zagubieni
+Homeopatia
+Postępowanie cywilne w Polsce
+
+
+QUERY: zakaz wjazdu
+Droga krajowa nr 39
+Alojz Rebula
+Góry Stołowe
+Dolina Będkowska
+Związek Polaków na Białorusi
+Semafor (kolejnictwo)
+Kabała
+
+
+QUERY: nalewka wiśniowa
+Listówka
+Wiśniówka (wódka)
+Dereń jadalny
+
+
+QUERY: sztuka programowania
+Programowanie
+Nagroda Turinga
+Donald Knuth
+The Art of Computer Programming
+The Art of Unix Programming
+Game Developers Conference
+Rekurencja
+Rob Hubbard
+Eric Raymond
+Przegląd zagadnień z zakresu statystyki
+
+
+QUERY: algorytm renderowania
+Algorytm warnocka
+Indigo Renderer
+V-ray
+Renderer
+Quirks mode
+
+
+QUERY: kolorowanie fotografii
+Awit Szubert
+Ansel Adams
+Abraham Neuman
+
+
+QUERY: wędrówki pyzy
+
+
+QUERY: różowa seria
+Aelita (Kod Lyoko)
+Kari Kamiya
+W.I.T.C.H. Czarodziejki
+Zgorszenie publiczne
+Liga Sprawiedliwych Bez Granic
+Mroczne przygody Billy'ego i Mandy
+Nowe przygody Kubusia Puchatka
+Sonic X
+Lista bohaterów serialu animowanego Ed, Edd i Eddy
+Leniuchowo
+Przegląd zagadnień z zakresu statystyki
+
+
+QUERY: mleko kakaowe
+Bounty (baton)
+Pawełek (baton)
+Ferrero Rocher
+Dieta wątrobowa
+Sinterklaas
+
+
+QUERY: cukierki krówki
+Krówki
+Dieta wątrobowa
+
+
+QUERY: ciasto z bakaliami
+Panforte
+Keks
+Bakalland
+Spotted dick
+Boże Narodzenie we Włoszech
+Galaretka
+Boże Narodzenie na Ukrainie
+
+
+QUERY: sposoby wykonywania kary śmierci
+Kara śmierci
+Pluton egzekucyjny
+Death chair
+Powieszenie
+Gilotyna
+I wojna światowa
+Antoine Louis
+Annasz syn Annasza
+Gajusz Juliusz Cezar
+Wolfgang Amadeusz Mozart
+Zbigniew Herbert
+Homoseksualizm a kontekst kulturowy
+Na dobre i na złe
+Jacek Kaczmarski
+Front wschodni (II wojna światowa)
+Historia polskiej żandarmerii
+Kabała
+Postępowanie cywilne w Polsce
+
+
+QUERY: deszcz w twarz
+Deszcz w Twarz
+Varsham
+Japonia
+Bogdan Izdebski
+Mafia (grupa muzyczna)
+Made in Poland (grupa muzyczna)
+Maria Peszek
+Martyn Pig
+The Warrior
+Jacek Kaczmarski
+Bitwa nad Little Bighorn
+Dakotowie
+Wiedźmin (gra komputerowa)
+Tonpress
+
+
+QUERY: zastrzelił prezydenta
+I wojna światowa
+1916
+Number Six
+1914
+Eligiusz
+16 grudnia
+22 listopada
+23 września
+Karabin Carcano
+Wojna w Osetii Południowej 2008
+Buszujący w zbożu
+Kampania wrześniowa
+Zmarli w roku 2006
+Lance Henriksen
+Service de Documentation Exterieure et de Contre-espionnage
+Dziki Bill Hickok
+Terroryzm
+Kalendarium historii Grajewa
+Historia Żelechowa
+
+
+QUERY: postępujący zanik mięśni
+Choroby mitochondrialne
+Dystrofia mięśniowa Duchenne'a
+Jan Kopyto
+Chad Channing
+Homeopatia
+Egzamin maturalny
+
+
+QUERY: zwolnienie chorobowe
+Zwolnienie lekarskie
+Marian Karaś
+Komunikacja perswazyjna
+Korneliusz Jemioł
+Postępowanie cywilne w Polsce
+
+
+QUERY: świadectwo pracy
+Świadectwo pracy
+Studia podyplomowe
+Japonia
+Wykształcenie średnie
+Egzamin do państwowego zasobu kadrowego
+Przygotowanie zawodowe
+Wzgórze Lecha
+Aplikacja komornicza
+Jednolite studia magisterskie
+Helmut Rix
+Pawieł Muchanow
+Józef Flawiusz
+Sekcja (rewolucja francuska)
+Dokument prywatny
+Zofia Lissa
+Michael Berkowitz
+Ur (miasto)
+Tadeusz Apollo
+Emil Mika
+Egzamin maturalny
+Zofia Sutorowska
+I instancja
+Zbigniew Herbert
+Historia nauki
+Piotr Czajkowski
+I Liceum Ogólnokształcące im. Adama Asnyka w Kaliszu
+Jan Kiepura
+Elementy
+Jacek Kaczmarski
+Ansel Adams
+Tadeusz Nowakowski (polityk)
+Zygmunt Klukowski
+Piotr Sławiński (poeta i historyk)
+VIII Liceum Ogólnokształcące im. Władysława IV w Warszawie
+Publikacje Świadków Jehowy
+Iliada
+Yes
+Postępowanie cywilne w Polsce
+Artemis Fowl
+Homoseksualizm a kontekst kulturowy
+Kabała
+Żandarmeria Wojskowa
+
+
+QUERY: grzyb boczniak
+Boczniak mikołajkowy
+Boczniak ostrygowaty
+Boczniak
+Grzyby niejadalne
+Grzyby jadalne
+
+
+QUERY: piracka zatoka
+René Duguay-Trouin
+Pedro Arias de Ávila
+Jaskółki i Amazonki
+
+
+QUERY: kuśnierstwo
+Kuśnierstwo
+Aleksander Kłosiński
+Stary Lubliniec
+Rzemiosło
+Baranów Sandomierski
+Warta (miasto)
+Krotoszyn
+Historia Rzeszowa
+Protobułgarzy
+Historia Żelechowa
+Żelechów
+Tarnogród
+
+
+QUERY: cudowna panama
+Michał Zieliński (aktor)
+Janosch
+Edward Kłosiński
+Alicja Rapsiewicz
+Podróż Apostolska Jana Pawła II do Polski (II)
+
+
+QUERY: wafle grześki
+Grześki
+Kaliszanka
+
+
+QUERY: ryż na mleku
+Mleko ryżowe
+Zupa mleczna
+Zupa nic
+Kefir
+Pongal
+Kuchnia hiszpańska
+Dieta wątrobowa
+Drzewo Bodhi
+Chicha
+Wegetarianizm
+Fundacja Bank Żywności SOS w Warszawie
+Jarmuż
+Kwas pantotenowy
+Budda Siakjamuni
+Ropa za żywność
+Podróże kulinarne Roberta Makłowicza
+Selen
+
+
+QUERY: królestwo za konia
+Rosja
+Japonia
+I wojna światowa
+Ryszard III (sztuka)
+Ryszard III (film 1995)
+Oktawian August
+Budda Siakjamuni
+Dunaj
+Dziadek do Orzechów
+Ryszard III York
+Słoń bojowy
+Historia polskiej żandarmerii
+
+
+QUERY: goła stopa
+Płetwy
+Moby Dick (utwór Led Zeppelin)
+Pudel miniaturowy
+Radochów
+Oktawian August
+
+
+QUERY: no logo
+No Logo
+Styl no logo
+Naomi Klein
+Japonia
+Marka producenta
+Liga Sprawiedliwych Bez Granic
+Mroczne przygody Billy'ego i Mandy
+Freddie Mercury
+Michael Jackson
+Zagubieni
+
+
+QUERY: język programowania logo
+Logo (język programowania)
+Podprogram
+Imagine (środowisko programistyczne)
+LOGIA
+Biblioteka Inżynierii Oprogramowania
+Literał logiczny
+Notacja polska
+Przegląd zagadnień z zakresu statystyki
+
+
+QUERY: wojna światowa
+II wojna światowa
+1914
+Polska
+Warszawa
+1917
+1915
+Niemcy
+I wojna światowa
+Alianci II wojny światowej
+1920
+Rosja
+1918
+1916
+Włochy w czasie II wojny światowej
+Japonia
+1999
+Państwa Osi
+1946
+Kolaboracja
+Armata kolejowa 13,5-calowa
+Robert Graves
+Stare Miasto w Warszawie
+1985
+Ziemie Odzyskane
+Samolot bombowy
+1905
+Marcin Ciszewski
+Adam Sztark
+Samolot myśliwski
+Wehrmacht
+Poznań
+II wojna światowa w Afryce
+George Patton
+Aleksander Kłosiński
+16 grudnia
+Czołg
+9 maja
+Władysław Sikorski
+Pasterka (województwo dolnośląskie)
+9 września
+Jerzy Matuszkiewicz
+Front zachodni (II wojna światowa)
+Twierdza Kołobrzeg
+Klecina
+Cmentarz Osobowicki
+Lublin
+28 maja
+Oporów (Wrocław)
+Mario Puzo
+Kampania wrześniowa
+15 kwietnia
+Rocznik statystyczny
+5 maja
+I Liceum Ogólnokształcące im. Jana Kasprowicza w Inowrocławiu
+Novina (wydawca gier planszowych)
+Bydgoszcz
+Lotniskowiec
+Góry Stołowe
+2 lipca
+Henryk Jedwab
+Cmentarz żydowski na Czekaju w Rzeszowie
+7 kwietnia
+Adam Mickiewicz
+Front wschodni (II wojna światowa)
+Pistolet Mauser C96
+Szlak Saara-Śląsk
+Emil Mika
+Zakład Historii Europy Wschodniej Uniwersytetu im. Adama Mickiewicza
+Skala (przedsiębiorstwo)
+Chorągiew Lubelska ZHP
+Władysław Mickiewicz
+28 listopada
+Zbigniew Józefowicz
+Historia Warszawy
+Ignacy Jan Paderewski
+Polonizacja
+22 listopada
+Polityka pronatalistyczna
+Mniszek (Góry Wałbrzyskie)
+Gieorgij Żukow
+26 września
+Tajny Hufiec Harcerzy
+Ojcowski Park Narodowy
+Jerzy Kochan
+Ludność Polski
+Meksyk
+Irena Sendlerowa
+Karabin maszynowy Chauchat
+Historia Żelechowa
+Externsteine
+Język polski
+Ośrodek religijny w Bydgoszczy
+Stanisław Staszewski
+Olsztyn (województwo śląskie)
+Helena Rasiowa
+Kalendarium II wojny nad Zatoką Perską
+Zampol
+15 października
+Vito Corleone
+Stanisław Lem
+Historia Bydgoszczy
+Historia Rzeszowa
+Aleksandra Fiodorowna (Alicja Heska)
+Zmarli w roku 2008
+Barisan Hizbullah
+De Havilland Mosquito
+Pieskowa Skała
+Cmentarz żydowski w Słubicach
+Kudowa-Zdrój
+Stołowa Góra
+Michael Corleone
+Kaliszanka
+Karabin Carcano
+Karol Borsuk
+B'nai B'rith (Polska)
+Dolina Prądnika
+Zelów
+Zofia Sutorowska
+Tyraliera
+Dunaj
+Jerzy Pertkiewicz
+Wacław Kowalski
+Galew (powiat turecki)
+HMS Arethusa (1935)
+Wanda Rutkiewicz
+Stary Lubliniec
+Linia Środkowej Odry
+Roztoka (województwo dolnośląskie)
+Krzeszowice
+Bezrzecze (powiat policki)
+Jan Raczkowski
+Enigma
+Ojciec chrzestny
+Anton Jadasch
+Wojciech Szczepaniak
+Rogatywka
+Duszniki-Zdrój
+Czarna Żmija
+Władca Pierścieni (film)
+Grand Hotel w Sopocie
+Edward Prus
+Zmarli w roku 2006
+Świecie
+Przeciszów
+Wałbrzych
+Żelechów
+Sinterklaas
+Pianista (film)
+Baranów Sandomierski
+Via ferrata
+Liga Sprawiedliwych Bez Granic
+Hellboy
+Leszek Kołakowski
+T-34
+Jacek Kaczmarski
+Gloster Gladiator
+Jan Kiepura
+Dolina Będkowska
+Zofia Lissa
+Bill Johnston
+Walerian Borowczyk
+Kastet
+Jan Frycz
+Browar Kętrzyn
+Lockheed P-38 Lightning
+Dane Zajc
+Naukowe Koło Chemików Wydziału Chemii Uniwersytetu im. Adama Mickiewicza
+Rzemiosło
+Tadeusz Nowakowski (polityk)
+Czołg super-ciężki
+Service de Documentation Exterieure et de Contre-espionnage
+Zakład Kultury i Myśli Politycznej Uniwersytetu im. Adama Mickiewicza
+Terroryzm
+Historia kolei w Afryce
+Sowina (powiat jasielski)
+Hot dog
+Ostatni kurs
+Ciocia Jolesch
+Tarnogród
+Katedra Muzykologii Uniwersytetu im. Adama Mickiewicza
+William Griffith Wilson
+Sark
+Historia polskiej żandarmerii
+Wojna w Osetii Południowej 2008
+Materializm dialektyczny
+Pulp Fiction
+VIII Liceum Ogólnokształcące im. Władysława IV w Warszawie
+RMS Titanic
+Zabytki Warszawy
+Ruch Chorzów
+Instytut Etnologii i Antropologii Kulturowej Uniwersytetu im. Adama Mickiewicza
+Blond (kolor)
+Harry Harrison
+Alojz Rebula
+Jaworzno
+Historia kolei w Niemczech
+Pär Lagerkvist
+Władysław Starewicz
+Babie Doły
+Parki miniatur
+Kałmucja
+Dziki Bill Hickok
+Tour de France
+Młodzież Wszechpolska
+Historia nauki
+Thoralf Skolem
+Pociąg
+Szlak Orlich Gniazd
+Korneliusz Jemioł
+Elementy
+I Liceum Ogólnokształcące im. Adama Asnyka w Kaliszu
+Pudel miniaturowy
+Czosnek pospolity
+Koleje aglomeracyjne w Południowym Kantō
+Publikacje Świadków Jehowy
+Historia kolei
+Piotr Sławiński (poeta i historyk)
+Historia grupy Pink Floyd
+Béla Bartók
+Andy Warhol
+Parki i tereny leśne w Bydgoszczy
+Dyskografia Jacka Kaczmarskiego
+Max Steiner
+Zagubieni
+Mistrzowie Szkocji w piłce nożnej
+Niemieckie nazwy polskich miejscowości
+
+
+QUERY: ii wojna światowa
+II wojna światowa
+Polska
+Warszawa
+1914
+1917
+Niemcy
+1915
+I wojna światowa
+Alianci II wojny światowej
+1920
+Rosja
+1918
+Włochy w czasie II wojny światowej
+1999
+1916
+Kolaboracja
+Japonia
+Państwa Osi
+1946
+Armata kolejowa 13,5-calowa
+Stare Miasto w Warszawie
+Adam Sztark
+Ziemie Odzyskane
+Marcin Ciszewski
+1905
+Samolot bombowy
+Samolot myśliwski
+II wojna światowa w Afryce
+Wehrmacht
+Poznań
+Aleksander Kłosiński
+George Patton
+Czołg
+16 grudnia
+9 maja
+Pasterka (województwo dolnośląskie)
+Twierdza Kołobrzeg
+Mario Puzo
+9 września
+Klecina
+5 maja
+Front zachodni (II wojna światowa)
+I Liceum Ogólnokształcące im. Jana Kasprowicza w Inowrocławiu
+Władysław Sikorski
+Rocznik statystyczny
+Lublin
+Oporów (Wrocław)
+28 maja
+Kampania wrześniowa
+Bydgoszcz
+15 kwietnia
+Historia Warszawy
+Cmentarz Osobowicki
+Lotniskowiec
+Cmentarz żydowski na Czekaju w Rzeszowie
+Polonizacja
+Chorągiew Lubelska ZHP
+2 lipca
+Henryk Jedwab
+Góry Stołowe
+Adam Mickiewicz
+28 listopada
+7 kwietnia
+Front wschodni (II wojna światowa)
+Skala (przedsiębiorstwo)
+Gloster Gladiator
+Wanda Rutkiewicz
+22 listopada
+Zakład Historii Europy Wschodniej Uniwersytetu im. Adama Mickiewicza
+Tajny Hufiec Harcerzy
+Szlak Saara-Śląsk
+De Havilland Mosquito
+Ignacy Jan Paderewski
+Ośrodek religijny w Bydgoszczy
+26 września
+Mniszek (Góry Wałbrzyskie)
+Emil Mika
+Pistolet Mauser C96
+Irena Sendlerowa
+Jan Raczkowski
+Ludność Polski
+Externsteine
+Bezrzecze (powiat policki)
+Karol Borsuk
+Ojcowski Park Narodowy
+Gieorgij Żukow
+15 października
+Meksyk
+Stanisław Staszewski
+Helena Rasiowa
+Olsztyn (województwo śląskie)
+Roztoka (województwo dolnośląskie)
+Język polski
+Kalendarium II wojny nad Zatoką Perską
+Historia Rzeszowa
+Barisan Hizbullah
+Michael Corleone
+Aleksandra Fiodorowna (Alicja Heska)
+Cmentarz żydowski w Słubicach
+Stanisław Lem
+Zmarli w roku 2008
+Zampol
+Stołowa Góra
+Historia Żelechowa
+Edward Prus
+Galew (powiat turecki)
+Karabin Carcano
+Pieskowa Skała
+Kaliszanka
+Historia Bydgoszczy
+Zofia Sutorowska
+Kudowa-Zdrój
+Czołg super-ciężki
+Krzeszowice
+Ojciec chrzestny
+Dolina Prądnika
+Zofia Lissa
+Stary Lubliniec
+Linia Środkowej Odry
+Enigma
+B'nai B'rith (Polska)
+Przeciszów
+Świecie
+Dunaj
+Jerzy Pertkiewicz
+Wałbrzych
+Wacław Kowalski
+Grand Hotel w Sopocie
+Zelów
+Zmarli w roku 2006
+Jacek Kaczmarski
+HMS Arethusa (1935)
+Wojciech Szczepaniak
+Rogatywka
+Żelechów
+Via ferrata
+Czarna Żmija
+Duszniki-Zdrój
+T-34
+Jaworzno
+Sinterklaas
+Anton Jadasch
+Pianista (film)
+Liga Sprawiedliwych Bez Granic
+Leszek Kołakowski
+Jan Kiepura
+Baranów Sandomierski
+Tadeusz Nowakowski (polityk)
+Dolina Będkowska
+Ruch Chorzów
+Browar Kętrzyn
+Historia polskiej żandarmerii
+Naukowe Koło Chemików Wydziału Chemii Uniwersytetu im. Adama Mickiewicza
+Rzemiosło
+Dane Zajc
+Materializm dialektyczny
+Sowina (powiat jasielski)
+Lockheed P-38 Lightning
+Jan Frycz
+Walerian Borowczyk
+Tarnogród
+Zakład Kultury i Myśli Politycznej Uniwersytetu im. Adama Mickiewicza
+Sark
+Zabytki Warszawy
+Historia kolei w Afryce
+Terroryzm
+Béla Bartók
+Hot dog
+Service de Documentation Exterieure et de Contre-espionnage
+Pulp Fiction
+Instytut Etnologii i Antropologii Kulturowej Uniwersytetu im. Adama Mickiewicza
+Blond (kolor)
+VIII Liceum Ogólnokształcące im. Władysława IV w Warszawie
+Alojz Rebula
+Elementy
+I Liceum Ogólnokształcące im. Adama Asnyka w Kaliszu
+Harry Harrison
+Historia nauki
+Historia kolei w Niemczech
+Parki miniatur
+Piotr Sławiński (poeta i historyk)
+Babie Doły
+Kałmucja
+Młodzież Wszechpolska
+Korneliusz Jemioł
+Historia kolei
+Pociąg
+Tour de France
+Dyskografia Jacka Kaczmarskiego
+Szlak Orlich Gniazd
+Publikacje Świadków Jehowy
+Koleje aglomeracyjne w Południowym Kantō
+Andy Warhol
+Parki i tereny leśne w Bydgoszczy
+Zagubieni
+Mistrzowie Szkocji w piłce nożnej
+Niemieckie nazwy polskich miejscowości
+
+
+QUERY: film rój
+Rój (film)
+Babar - król słoni
+Kathryn Morris
+Tomasz Beksiński
+Stanisław Lem
+Pidżama Porno
+
+
+QUERY: najwyższy szczyt europy
+
+
+QUERY: logo wikipedii
+Wikipedia
+Wikiwix
+Drzewo czerwono-czarne
+
+
+QUERY: filmy romana polańskiego
+Gdy spadają anioły
+Rower (film)
+Lokator (film)
+Nieustraszeni pogromcy wampirów
+Gruby i chudy
+Frantic (film)
+Chinatown (film)
+Gorzkie gody
+Pianista (film)
+Śmierć i dziewczyna
+Dziecko Rosemary
+Oliver Twist (film 2005)
+Polska
+Wstręt (film)
+Roman Polański
+Tess
+Oliver Twist
+Piraci (film)
+Krzysztof Komeda
+Michał Żebrowski (aktor)
+1967 w filmie
+Stanisław Tym
+1980 w filmie
+53. Ceremonia wręczenia Oscarów
+Catherine Deneuve
+Lokatorzy
+
+
+QUERY: pod mocnym aniołem
+Przeciszów
+Szpital na perypetiach
+Wojna w Osetii Południowej 2008
+Publikacje Świadków Jehowy
+
+
+QUERY: spis cudzołożnic
+Spis cudzołożnic
+XIX Festiwal Polskich Filmów Fabularnych
+Jerzy Pilch
+Edyta Olszówka
+Jerzy Stuhr
+Agnieszka Wagner
+Jan Frycz
+Stanisława Celińska
+
+
+QUERY: gaba kulka
+
+
+QUERY: maria awaria
+Maria Awaria
+Maria Peszek
+Dunaj
+RMS Titanic
+
+
+QUERY: mały modelarz
+Plany Modelarskie
+Mały Modelarz
+Modelarstwo kartonowe
+STS Dar Młodzieży
+SS Sołdek
+
+
+QUERY: kuba sienkiewicz
+Kuba Sienkiewicz
+Źródło (album)
+A ty co
+Od morza do morza (album)
+Wielka radość
+Na krzywy ryj
+Elektryczne Gitary
+Dzieci wybiegły
+Jacek Kleyff
+Muzyka Przeciwko Rasizmowi
+
+
+QUERY: stosunek przerywany
+Stosunek przerywany
+Szwedzcy ambasadorzy w Rosji
+Onan
+1914
+Seks
+Tiglatpilesar I
+Kwadrat logiczny
+Enoch Heinrich Kisch
+Antykoncepcja
+Wskaźnik Pearla
+André Sá
+Homoseksualizm a kontekst kulturowy
+Sortowanie polifazowe
+Wiedźmin (gra komputerowa)
+VIII Liceum Ogólnokształcące im. Władysława IV w Warszawie
+Komórka
+Przegląd zagadnień z zakresu statystyki
+Historia nauki
+
+
+QUERY: drugie śniadanie
+Śniadanie
+Drugie śniadanie
+Brunch
+Pierwsza komunia, drugie śniadanie, trzecia Rzeczpospolita
+Big Cyc
+Beata Michniewicz
+Blake Edwards
+Podwieczorek
+1997 w muzyce
+Pulp Fiction
+Kociewie
+Baranek Shaun
+Dzieciaki z klasy 402
+Rokoko
+Historia grupy Pink Floyd
+Gramatyka języka polskiego
+Szpital na perypetiach
+Dyskografia Jacka Kaczmarskiego
+Publikacje Świadków Jehowy
+
+
+QUERY: wielka orkiestra świątecznej pomocy
+
+
+QUERY: zespół kraftwerk
+Kraftwerk (album)
+Kraftwerk
+Autobahn
+The Mix
+Computerwelt
+Vocoder
+Muzyka elektroniczna
+Zmarli w roku 2008
+
+
+QUERY: prestidigitator
+Iluzjonista
+Prestiż
+Rzut monetą
+Sztuka iluzji
+
+
+QUERY: najdłuższa rzeka europy
+
+
+QUERY: rocznik statystyczny
+Rocznik Statystyczny Rzeczypospolitej Polskiej
+Rocznik statystyczny
+Rocznik
+Polska
+Przegląd zagadnień z zakresu statystyki
+Historia nauki
+
+
+QUERY: wyż demograficzny
+Wyż demograficzny
+Polska
+Nowe Osiedle
+Meksyk
+Wojna domowa (serial telewizyjny)
+Babie Doły
+Żelechów
+
+
+QUERY: naomi klein
+Naomi Klein
+No Logo
+Styl no logo
+Marka producenta
+5 maja
+
+
+QUERY: Agnieszka
+Agnieszka
+Agnieszka z Poitou
+Agnieszka Holland
+Czego się boją faceci, czyli seks w mniejszym mieście
+Agnieszka von Waiblingen
+Agnieszka Grochowska
+Klasztor św. Agnieszki w Pradze
+Agnieszka Włodarczyk
+Agnieszka Dygant
+Agnieszka Osiecka
+13 posterunek
+1992
+Jak Oni śpiewają (płyta Agnieszki Włodarczyk)
+Zostać miss 2
+Magdalena Agnieszka Lubomirska
+1971
+Mistrzostwa Polski w szachach błyskawicznych
+Agnieszka Krukówna
+Na dobre i na złe
+Ballada o pancernych
+1972
+Tak czy nie?
+Agnieszka Wagner
+Poznań
+Jerzy Matuszkiewicz
+Klan (serial telewizyjny)
+Ewa Braun (scenograf)
+Samo Życie
+9 maja
+Spis cudzołożnic
+Sara (film)
+Uniwersytet Wrocławski
+1980 w filmie
+Playboy Polska (miesięcznik)
+Klasztor w Czernej
+7 stycznia
+Dikanda
+Stanisława Celińska
+28 listopada
+Maria Chwalibóg
+Henryk Alber
+Agnieszka Radwańska
+1978 w filmie
+15 kwietnia
+Jacek Rozenek
+Lokatorzy
+Kabaret Moralnego Niepokoju
+Gwiazdy tańczą na lodzie
+Prawo i pięść
+Szamanka (film)
+Bydgoszcz
+Wiedźmin (film)
+Dolina Eliaszówki
+Na krzywy ryj
+Majka Jeżowska
+Leszek Bogdanowicz
+Szpital na perypetiach
+1997 w muzyce
+Kari Kamiya
+Naukowe Koło Chemików Wydziału Chemii Uniwersytetu im. Adama Mickiewicza
+Liga Sprawiedliwych Bez Granic
+Kraniec świata
+Wacław Kowalski
+Piotr Zelt
+Danuta Rinn
+Kościół Wniebowzięcia Najświętszej Maryi Panny we Wrocławiu-Ołtaszynie
+I Liceum Ogólnokształcące im. Jana Kasprowicza w Inowrocławiu
+Dębnik (województwo małopolskie)
+Wiedźmin (serial telewizyjny)
+Dane Zajc
+Simpsonowie: Wersja kinowa
+Lizzie McGuire (serial telewizyjny)
+Wałbrzych
+Święci i błogosławieni Kościoła katolickiego
+Shrek
+Lista odcinków serialu Detektywi
+Z życia nastoletniego robota
+Wiedźmin (gra komputerowa)
+Moonlight
+Krotoszyn
+SingStar
+Fantastyczna Czwórka (serial animowany 2006)
+Krzeszowice
+Instytut Historii Uniwersytetu im. Adama Mickiewicza
+Mroczne przygody Billy'ego i Mandy
+Roztoka (województwo dolnośląskie)
+W.I.T.C.H. Czarodziejki
+VIII Liceum Ogólnokształcące im. Władysława IV w Warszawie
+Sonic X
+Tonpress
+Dyskografia Jacka Kaczmarskiego
+
+
+QUERY: Billa
+Max Bill
+Billa
+Bill i Ben
+Bill Gadsby
+Bill Haley
+William Griffith Wilson
+Bill Evans
+Psotny Bill
+Kill Bill
+Bill Charlap
+Bill Kaulitz
+Bill Turner
+Bill Cosby
+Bill English
+Bill Frisell
+Dziki Bill Hickok
+Bill Clinton
+Harry Harrison
+Bill Johnston
+Nagrody BAFTA 2003
+Bill Gates
+1946
+Lista hokeistów Detroit Red Wings
+Mistrzowie US Open w grze mieszanej
+Mistrzowie US Open w grze pojedynczej
+Gwiazdy Hollywood Walk of Fame
+1917
+Oliver Twist (film 2005)
+53. Ceremonia wręczenia Oscarów
+Nowy Meksyk
+5 maja
+9 września
+10 stycznia
+Lista standardów muzyki rozrywkowej i jazzowej
+Czekając na Joe
+Spiel des Jahres
+Mastermind (gra planszowa)
+Microsoft Windows
+Wojna domowa (serial telewizyjny)
+Bydgoszcz
+Yes
+Rocky Balboa (film)
+Jerzy Matuszkiewicz
+Oscar dla najlepszego aktora drugoplanowego
+Bitwa nad Little Bighorn
+Anthony Hopkins
+Kinder niespodzianka (zabawka)
+Detroit Red Wings
+Programowanie
+John Fahey
+Zmarli w roku 2006
+Lista eponimów
+El Capitan
+Ghost Master
+SingStar
+Zmarli w roku 2008
+Historia gier komputerowych
+Lockheed C-5 Galaxy
+Czarna Żmija
+Ryszard III York
+Max Steiner
+Przewody trakcyjne
+
+
+QUERY: Uniwersytet Wrocławski
+Wieża matematyczna Uniwersytetu Wrocławskiego
+Cmentarz św. Wawrzyńca we Wrocławiu
+Zabytkowe wnętrza i obiekty Uniwersytetu Wrocławskiego
+Wydział Matematyki i Informatyki Uniwersytetu Wrocławskiego
+Uniwersytet Wrocławski
+Biblioteka Cyfrowa Uniwersytetu Wrocławskiego
+Wydział Fizyki i Astronomii Uniwersytetu Wrocławskiego
+Jerzy Kochan
+Poznań
+Leszek Kołakowski
+Bydgoszcz
+Jacek Kaczmarski
+Wałbrzych
+Roztoka (województwo dolnośląskie)
+Zmarli w roku 2006
+
+
+QUERY: Russell Hulse
+Russell Alan Hulse
+1993 w nauce
+1993
+28 listopada
+Nagroda Nobla w dziedzinie fizyki
+
+
+QUERY: x-men wolverine
+X-Men
+Hugh Jackman
+Tomasz Marzecki
+Russell Crowe
+
+
+QUERY: szczecin flaga
+
+
+QUERY: flaga szczecina
+
+
+QUERY: a ja wolę moją mamę
+Majka Jeżowska
+Asertywna odmowa
+Presupozycja
+Tonpress
+Danuta Rinn
+Paradoks dziadka
+Elżbieta Aleksiejewna (Ludwika Badeńska)
+Agnieszka Osiecka
+Elektryczne Gitary
+SingStar
+Jan Borysewicz (muzyk)
+Korneliusz Jemioł
+Mroczne przygody Billy'ego i Mandy
+Aleksandra Fiodorowna (Alicja Heska)
+Kamose
+Gramatyka języka polskiego
+Michael Jackson
+
+
+QUERY: oporów wrocław
+Łukasz Kamiński
+Kościół św. Michała Archanioła we Wrocławiu
+Kościół Wniebowzięcia Najświętszej Maryi Panny we Wrocławiu-Ołtaszynie
+Hieronim Rozdrażewski
+Linia Środkowej Odry
+Zbigniew Herbert
+Kampania wrześniowa
+Gajusz Juliusz Cezar
+Ziemie Odzyskane
+Front wschodni (II wojna światowa)
+Historia kolei w Niemczech
+Historia Warszawy
+Historia polskiej żandarmerii
+Historia kolei
+Kalendarium II wojny nad Zatoką Perską
+Iliada
+Tarnogród
+
+
+QUERY: gregory house
+Gregory House
+Dr House
+Mroczne przygody Billy'ego i Mandy
+Kate Jackson
+Historia gier komputerowych
+Lokatorzy
+
+
+QUERY: joe alex
+Joe Alex
+Czekając na Joe
+Śmierć mówi w moim imieniu
+Jesteś tylko diabłem
+Piekło jest we mnie
+Maciej Słomczyński
+Powiem wam jak zginął
+Cichym ścigałam go lotem
+Cicha jak ostatnie tchnienie
+Zmącony spokój Pani Labiryntu
+Malta Cup 2008
+Gdzie przykazań brak dziesięciu
+Ostatni kurs
+John Fahey
+Zbrodniarz i panna
+Lista hokeistów Detroit Red Wings
+Detroit Red Wings
+Nagrody BAFTA 2003
+Oscar dla najlepszego aktora drugoplanowego
+Noty biograficzne - Al
+Gwiazdy Hollywood Walk of Fame
+Władca Pierścieni: Powrót Króla (film)
+Hokej na lodzie na siedząco na Zimowych Igrzyskach Paraolimpijskich 2006
+Marianne Faithfull
+John Petrucci
+Mistrzostwa Świata w Piłce Nożnej 1982 (składy)
+Lista standardów muzyki rozrywkowej i jazzowej
+Władca Pierścieni (film)
+Mistrzowie Szkocji w piłce nożnej
+El Capitan
+Zagubieni
+Zmarli w roku 2008
+Tonpress
+
+
+QUERY: ichtiwegetarianizm
+Ichtiwegetarianizm
+Semiwegetarianizm
+Wegetarianizm
+
+
+QUERY: joanna chmielewska wszyscy jesteśmy podejrzani
+Wszyscy jesteśmy podejrzani
+Randka z diabłem
+
+
+QUERY: stephenie meyer zmierzch
+Stephenie Meyer
+Ashley Greene
+Isabella Swan
+Edward Cullen
+Zmierzch (saga)
+Zmierzch (film)
+Wampir
+Alicja
+
+
+QUERY: nemerle
+Nemerle
+Boo
+Michał Moskal
+Instytut Informatyki Uniwersytetu Wrocławskiego
+Programowanie funkcyjne
+C Sharp
+.NET Framework
+
+
+QUERY: david gahan depeche mode
+Depeche Mode
+David Gahan
+Epping (Anglia)
+9 maja
+1962 w muzyce
+Speedball (narkotyk)
+
+
+QUERY: grypa żołądkowa
+Evan Lysacek
+Rotawirusy
+Czosnek pospolity
+
+
+QUERY: mario puzo
+Mario Puzo
+Głupcy umierają
+Mroczna arena
+Sonny Corleone
+1999
+1920
+Rodzina Borgiów (powieść)
+Pete Clemenza
+Ojciec chrzestny
+Carlo Rizzi
+Johnny Fontane
+Amerigo Bonasera
+Santino Corleone
+Mary Corleone
+Mariusz
+Anthony Corleone
+Tom Hagen
+Michael Corleone
+Sycylijczyk
+Connie Corleone
+2 lipca
+Nino Valenti
+Vito Corleone
+Frederico Corleone
+Kay Adams
+15 października
+2000 w literaturze
+Rodzina Corleone
+
+
+QUERY: amiga
+Amiga 1000
+Amiga
+Amiga 1200
+Amiga 3000
+Amiga 500+
+Amiga 4000
+Amiga 500
+Amiga 2500
+AmigaOS
+Komputer domowy
+MorphOS
+Commodore International
+Misja Harolda
+MC68020
+Fred Fish
+M68000
+Bajtek
+Komputer osobisty
+Spiel des Jahres
+Commodore 64
+Motorola
+Atari Transputer Workstation
+System plików
+Atari
+System operacyjny
+1962 w muzyce
+Historia gier komputerowych
+Kontroler gier
+Gra na komputery osobiste
+Michael Jackson
+
+
+QUERY: amiga 1000
+Amiga 1000
+Amiga
+Komputer domowy
+Commodore International
+Fred Fish
+Komputer osobisty
+
+
+QUERY: aros research operating system
+
+
+QUERY: ciąg
+Ciąg podstawowy
+Ciąg superrosnący
+Granica ciągu
+Ciąg arytmetyczny
+Ciąg geometryczny
+Ciąg Fibonacciego
+Ciąg poligonowy zamknięty
+Ciąg Cauchy'ego
+Polska
+Warszawa
+Sortowanie przez scalanie
+Ciąg poligonowy dwustronnie nawiązany
+Sortowanie pozycyjne
+Nierówność o ciągach jednomonotonicznych
+II wojna światowa
+1920
+Teoria obliczalności
+I wojna światowa
+Japonia
+Szyfr Vernama
+Lematy Borela-Cantellego
+Szereg (matematyka)
+Problem odpowiedniości Posta
+1916
+Sortowanie Shella
+Sortowanie bąbelkowe
+Amiga 500+
+Europejski Instytut Badań Wirusów Komputerowych
+Automat skończony
+1913
+Marathon des Sables
+Drugie śniadanie
+System operacyjny czasu rzeczywistego
+Lublin
+Twierdzenie Lebesgue'a o zbieżności monotonicznej
+Góra stołowa (geomorfologia)
+Kościół św. Michała Archanioła we Wrocławiu
+John Charles
+Losowość
+Lista problemów NP-zupełnych
+Sortowanie przez wstawianie
+Meksyk
+Dowód poprawności algorytmu
+Wyrażenie regularne
+Robert Graves
+Maszyna Turinga
+Wolfgang Amadeusz Mozart
+William Thomas Stead
+Michael O. Rabin
+Język formalny
+Rekurencja
+Perl
+Egzamin do państwowego zasobu kadrowego
+Zwolnienie lekarskie
+Góry Stołowe
+Jednostka leksykalna
+Kodowanie Huffmana
+Algorytm scalania
+Problem nierozstrzygalny
+Zaćmienie (powieść)
+Sortowanie polifazowe
+Urząd Miejski w Szczecinie
+Sortowanie szybkie
+Język regularny
+Gajusz Juliusz Cezar
+Kościół św. Antoniego z Padwy we Wrocławiu
+Tu-134
+Twierdzenie Myhilla-Nerode'a
+Zabytkowe wnętrza i obiekty Uniwersytetu Wrocławskiego
+William Griffith Wilson
+Bydgoszcz
+RMS Titanic
+Fraktal
+Obliczenia równoległe
+Dowód (matematyka)
+Aksjomat ciągłości
+Krzysztof Komeda
+Kocham Polskę
+Kampania wrześniowa
+Wodospady Pośny
+Władysław Sikorski
+Wydanie Wii
+Kompresja bezstratna
+Programowanie imperatywne
+Algorytm
+Dunaj
+Wehrmacht
+Szybka Kolej Miejska w Warszawie
+Donald Knuth
+Sudety Środkowe
+Aksjomat wyboru
+Trójkąt Sierpińskiego
+Leśny Park Kultury i Wypoczynku
+Automat Büchiego
+Ford FT-B
+Państwa Osi
+Alianci II wojny światowej
+Presence
+Kuchnia hiszpańska
+Sortowanie
+Zdarzenie losowe niemożliwe
+Liga Sprawiedliwych Bez Granic
+Bill Gates
+Ireneusz Wójcicki
+Ur (miasto)
+Lockheed C-5 Galaxy
+Archiwalne audycje TVP
+Morskie ubranie ratunkowe
+Słoń afrykański
+Nintendo
+Relacja równoważności
+Samolot myśliwski
+JPEG
+Wskaźnik Pearla
+Wojciech Szczepaniak
+Cmentarz Osobowicki
+Wałbrzych
+Sytuacja prawna i społeczna osób LGBT w Irlandii
+Enigma
+MPEG
+Budda Siakjamuni
+El Capitan
+Piotr Czajkowski
+Krzeszowice
+Funkcja rekurencyjna
+Atari
+George Patton
+Problem plecakowy
+Kociewie
+Bitwa nad Little Bighorn
+Pedro Arias de Ávila
+Jan Kiepura
+Powieszenie
+X-Men
+Komunikacja perswazyjna
+Historia matematyki
+Dolny Śląsk
+Historia Warszawy
+Język bezkontekstowy
+Paradoks dziadka
+Wspinaczka
+Dialekt północnokresowy
+Domestykacja zwierząt
+Freddie Mercury
+Teoria modeli
+Cyfrowy znak wodny
+Commodore PET
+Kasztanowiec zwyczajny
+Koncerty instrumentalne
+Scytowie
+Piekoszów
+Hot dog
+Wincenty Dunikowski-Duniko
+Postępowanie cywilne w Polsce
+Binarne drzewo poszukiwań
+VIII Liceum Ogólnokształcące im. Władysława IV w Warszawie
+Detroit Red Wings
+Wojna Kurukszetra
+Lista eponimów
+Klan (serial telewizyjny)
+Jaworzno
+Choroby mitochondrialne
+Elementy
+Nerwiakowłókniakowatość typu 1
+Drzewo splay
+Materializm dialektyczny
+TGV
+IA-32
+Podprogram
+Rogatywka
+World Eaters
+II wojna światowa w Afryce
+Entezopatie
+Rower poziomy
+Historia nauki
+Oscar dla najlepszego aktora drugoplanowego
+SAS 4GL
+Ruch Chorzów
+Fonetyka języka polskiego
+Tarnogród
+Michael Jackson
+Pagoda Shwe Dagon
+Common Lisp
+Przemoc domowa
+Anagram
+Graf (matematyka)
+Mnożenie macierzy
+Parser LR
+Historia gier komputerowych
+Lockheed P-38 Lightning
+Roztoka (województwo dolnośląskie)
+Czarna Żmija
+Speedball (narkotyk)
+Historia Żelechowa
+Programy TVP
+Homeopatia
+W.I.T.C.H. Czarodziejki
+Grudzień 2004 w sporcie
+Dorsz atlantycki
+Iliada
+Agnieszka Radwańska
+Kalendarium II wojny nad Zatoką Perską
+Egzamin maturalny
+Czosnek pospolity
+Przeciszów
+Wojna w Osetii Południowej 2008
+Przegląd zagadnień z zakresu statystyki
+Dyskografia Jacka Kaczmarskiego
+PPS-Rewolucja Demokratyczna
+
+
+QUERY: Dziadek do Orzechów
+Barbie w Dziadku do orzechów
+Dziadek do Orzechów
+Rosja
+Muzeum Rekordów i Osobliwości
+Krzysztof Litwin
+MiniMini
+Piotr Czajkowski
+Wiedźmin (gra komputerowa)
+Tonpress
+
+
+QUERY: flicker-fixer
+Amiga 3000
+Przeplot
+Amiga 2500
+Amiga
+Amiga 4000
+
+
+QUERY: klasa abstrakcji
+Twierdzenie Myhilla-Nerode'a
+Relacja równoważności
+Programowanie obiektowe
+Opisowa teoria mnogości
+Obiektowość
+C++
+Ultraprodukt
+Podział zbioru
+Preferencja
+Ciąg podstawowy
+Algorytm
+OQL
+Paradoks Banacha-Tarskiego
+Rachunek lambda
+Zwrot wektora
+
+
+QUERY: komandytariusz
+Komandytariusz
+Suma komandytowa
+Spółka komandytowa
+Spółka osobowa
+Przekształcanie spółek
+Łączenie spółek
+Spółka handlowa
+
+
+QUERY: komplementariusz
+Komplementariusz
+Spółka komandytowa
+Suma komandytowa
+Spółka handlowa
+
+
+QUERY: MC68020
+MC68020
+M68000
+1984 w informatyce
+Amiga 2500
+Amiga 1200
+AmigaOS
+Motorola
+Amiga
+Atari ST
+TGV
+
+
+QUERY: morphos
+MorphOS
+Amiga
+Free Pascal
+AmigaOS
+Jądro systemu operacyjnego
+System operacyjny
+
+
+QUERY: nip
+Nipa krzewinkowa
+
+
+QUERY: prawo handlowe
+Prawo handlowe
+Kodeks handlowy
+Kodeks spółek handlowych
+Polska
+Aleksander Doliński
+Warszawa
+Mieczysław Honzatko
+Niemcy
+Spółka handlowa
+Komplementariusz
+Formy prawne przedsiębiorstw
+Rosja
+Przekształcanie spółek
+Suma komandytowa
+Łączenie spółek
+Światowa Organizacja Własności Intelektualnej
+Japonia
+I wojna światowa
+Poznań
+Średniowiecze
+Lublin
+Komandytariusz
+Meksyk
+Browar Kętrzyn
+Prokura
+Góry Stołowe
+Stare Miasto w Warszawie
+Spółka komandytowa
+Spółka osobowa
+Historia Warszawy
+Centrum Manufaktura
+Komputer osobisty
+Dunaj
+Historia Rzeszowa
+Świecie
+Władysław Sikorski
+Kara śmierci
+Radochów
+Kubuś Puchatek
+Historia Bydgoszczy
+Enigma
+Postępowanie cywilne w Polsce
+Historia nauki
+Bill Gates
+Warta (miasto)
+Pudel miniaturowy
+Zabytki Warszawy
+Jaworzno
+Krotoszyn
+Sinterklaas
+Historia Żelechowa
+Tarnogród
+Ryszard III York
+TGV
+Żelechów
+
+
+QUERY: prokurent
+Prokura
+
+
+QUERY: ruby on rails
+Ruby on Rails
+CakePHP
+Porównanie systemów CMS
+
+
+QUERY: spółka komandytowa
+Suma komandytowa
+Spółka komandytowa
+Spółka handlowa
+Spółka osobowa
+Przekształcanie spółek
+Formy prawne przedsiębiorstw
+Komplementariusz
+Łączenie spółek
+Komandytariusz
+Kodeks spółek handlowych
+Formy prawne przedsiębiorstw w Rosji
+
+
+QUERY: Spółka komandytowo - akcyjna
+Spółka osobowa
+Komplementariusz
+Spółka handlowa
+Formy prawne przedsiębiorstw
+Kodeks spółek handlowych
+Łączenie spółek
+Przekształcanie spółek
+Kommanditgesellschaft auf Aktien
+
+
+QUERY: Atari Transputer Workstation
+Transputer
+Atari Transputer Workstation
+Atari
+
+
+QUERY: atari
+Atari
+Komputer domowy
+Atari ST
+Robbo
+Rob Hubbard
+Zapaść gier wideo w 1983
+Atari Transputer Workstation
+Bajtek
+M68000
+Komputer osobisty
+Commodore International
+MC68020
+Historia gier komputerowych
+Transputer
+System operacyjny
+Motorola
+Stacja dyskietek
+Wiedźmin (gra komputerowa)
+Nintendo
+Wiedźmin
+Commodore 64
+Commodore PET
+Kontroler gier
+Michael Jackson
+
+
+QUERY: commodore
+Commodore International
+Commodore 64
+Commodore 128
+Commodore PET
+Black Box
+Komputer domowy
+MOS Technology SID
+Amiga 1200
+Amiga 500+
+Amiga 500
+Bajtek
+Amiga 3000
+Amiga 1000
+Komputer osobisty
+Zapaść gier wideo w 1983
+Rob Hubbard
+Amiga 2500
+Robbo
+Atari Transputer Workstation
+AmigaOS
+Amiga
+Motorola
+Historia gier komputerowych
+Amiga 4000
+System operacyjny
+Atari
+Atari ST
+Lista okrętów United States Navy, C
+Gra na komputery osobiste
+
+
+QUERY: commodore atari
+Atari
+Commodore International
+Komputer domowy
+Commodore 64
+Robbo
+Atari ST
+Zapaść gier wideo w 1983
+Rob Hubbard
+Commodore PET
+Atari Transputer Workstation
+Bajtek
+Komputer osobisty
+Historia gier komputerowych
+Motorola
+System operacyjny
+
+
+QUERY: okiennik wielki
+Wyżyna Krakowsko-Częstochowska
+Szlak Orlich Gniazd
+
+
+QUERY: człowieku nie irytuj się
+William Archibald Spooner
+Bill Gates
+Lista bohaterów serialu animowanego Ed, Edd i Eddy
+Artemis Fowl
+
+
+QUERY: wii motion plus
+
+
+QUERY: pilot pirx
+Opowieści o pilocie Pirxie
+Test pilota Pirxa
+Stanisław Lem
+
+
+QUERY: tytus de zoo
+Tytus
+Tytus, Romek i A'Tomek
+Tytus de Zoo
+Simpsonowie: Wersja kinowa
+
+
+QUERY: wii sports
+Wii Sports
+Wii Play
+Wii
+Wydanie Wii
+Exclusive
+PictoChat
+
+
+QUERY: dupa słonia
+
+
+QUERY: dzielnica czterech świątyń
+Dzielnica Czterech Świątyń
+Kościół Wniebowzięcia Najświętszej Maryi Panny we Wrocławiu-Ołtaszynie
+Japonia
+Poznań
+Ośrodek religijny w Bydgoszczy
+Meczet Sulejmana
+Oporów (Wrocław)
+Przeciszów
+Tarnogród
+Twierdza Kołobrzeg
+
+
+QUERY: sokolik skałki
+Sokolik
+Krzyżna Góra
+Góry Sokole
+Rudawy Janowickie
+Kazimierz Głazek
+
+
+QUERY: skałki wzgórza sokolik
+Krzyżna Góra
+Góry Sokole
+Kazimierz Głazek
+
+
+QUERY: park miniatur w kowarach
+
+
+QUERY: skałki lądeckie
+
+
+QUERY: age of consent
+Virgin Steele
+Bronski Beat
+Power, Corruption & Lies
+Helen Mirren
+Max Steiner
+Jimmy Somerville
+
+
+QUERY: dziadek w brydżu
+Brydż
+Wist (gra)
+Potwierdzenie wistu
+Kontra Lightnera
+Manewr Worka
+Terminologia brydżowa
+Przymus transportowy
+
+
+QUERY: kask wspinaczkowy
+Kask
+Kask wspinaczkowy
+Sprzęt wspinaczkowy
+Petzl
+Via ferrata
+Mont Aiguille
+
+
+QUERY: katalog dzieł bacha
+Wolfgang Schmieder
+BWV
+KV (muzyka)
+
+
+QUERY: katalog dzieł mozarta
+Wolfgang Amadeusz Mozart
+Ludwig von Köchel
+Koncerty instrumentalne
+KV (muzyka)
+
+
+QUERY: snajper fiński
+Simo Häyhä
+Wojna w Osetii Południowej 2008
+
+
+QUERY: platforma blogowa
+
+
+QUERY: inżynierowie z petrobudowy
+
+
+QUERY: piosenka baranek
+Baranek (piosenka)
+Stanisław Staszewski
+Tata Kazika
+Jerzy Matuszkiewicz
+Dyskografia Jacka Kaczmarskiego
+
+
+QUERY: piosenka mury
+Mury
+Heroes (singel)
+Jacek Kaczmarski
+Freddie Mercury
+SingStar
+Wojna plemników
+Dyskografia Jacka Kaczmarskiego
+Historia grupy Pink Floyd
+Tomasz Beksiński
+Big Cyc
+Świecie
+Liga Sprawiedliwych Bez Granic
+Tonpress
+Szpital na perypetiach
+
+
+QUERY: piosenka zbroja
+Jacek Kaczmarski
+Can I Play with Madness
+Dyskografia Jacka Kaczmarskiego
+Liga Sprawiedliwych Bez Granic
+Świecie
+Władca Pierścieni (film)
+
+
+QUERY: slang wspinaczkowy
+Gwara wspinaczkowa
+Direttissima
+Sztuczna ściana wspinaczkowa
+Wspinaczka
+
+
+QUERY: skała okiennik
+Wyżyna Krakowsko-Częstochowska
+Szlak Orlich Gniazd
+
+
+QUERY: okiennik skarżycki
+Szlak Orlich Gniazd
+
+
+QUERY: pilot wii
+Wii
+Wydanie Wii
+Kontroler gier
+
+
+QUERY: scyzoryk szwajcarski
+Scyzoryk
+Szwajcarski nóż oficerski
+Korkociąg
+Frenzy
+
+
+QUERY: buty wspinaczkowe
+Buty
+Buty wspinaczkowe
+Sprzęt wspinaczkowy
+Wspinaczka lodowa
+
+
+QUERY: polska b
+Polska
+Warszawa
+Język polski
+Zmarli w roku 2008
+1992
+Niemcy
+1999
+1972
+II wojna światowa
+1920
+1985
+1905
+Rosja
+I wojna światowa
+Kampania wrześniowa
+Ziemie Odzyskane
+Ośrodek Dokumentacji Wychodźstwa Polskiego
+Władysław Sikorski
+1913
+Andrzej Niedzielski
+1918
+Dialekt północnokresowy
+Zmarli w roku 2006
+Japonia
+Herbert Marcuse
+Natalia Gąsiorowska
+Poznań
+Mariusz
+Polonizacja
+1917
+Jerzy Pertkiewicz
+Adam Mickiewicz
+Michał Rowiński
+Zohar
+Fonetyka języka polskiego
+Związek Polaków na Białorusi
+Ruch Chorzów
+VIII Liceum Ogólnokształcące im. Władysława IV w Warszawie
+Język czeski
+Polska Partia Pracy
+Rogatywka
+Lublin
+Ignacy Jan Paderewski
+Prolog (język programowania)
+Jerzy Janicki
+Edward Prus
+Zofia Lissa
+Historiografia
+Góry Stołowe
+Maciej Słomczyński
+Baruch Steinberg
+Historia Warszawy
+Sprzęt wspinaczkowy
+I Liceum Ogólnokształcące im. Jana Kasprowicza w Inowrocławiu
+Notacja polska
+Jan Walter (duchowny luterański)
+Alianci II wojny światowej
+Edmund Fetting
+Zofia Sutorowska
+Bydgoszcz
+Przygody psa Cywila
+Wincenty Dunikowski-Duniko
+Www.1939.com.pl
+Jerzy Pilch
+Opisowa teoria mnogości
+Magia i Miecz (gra)
+Biblia
+Elektryczne Gitary
+Nowe przygody Kubusia Puchatka
+Leszek Kołakowski
+Helena Rasiowa
+Egzamin do państwowego zasobu kadrowego
+Naczelna Komenda Organizacji Harcerskiej na Warmię i Mazury
+Wyżyna Krakowsko-Częstochowska
+Aleksander Radczenko
+Szpital na perypetiach
+Historia polskiej żandarmerii
+Zbigniew Herbert
+Marcin Prus
+Walerian Borowczyk
+Leszek Bogdanowicz
+Ludność Polski
+Art-B
+Państwa Osi
+Agnieszka Holland
+Wehrmacht
+Średniowiecze
+Kudowa-Zdrój
+Anton Jadasch
+Piątek z Pankracym
+Stanisław Lem
+Agnieszka Osiecka
+Szamanka (film)
+B'nai B'rith (Polska)
+Główne nurty marksizmu
+Prawo i pięść
+Zakład Kultury i Myśli Politycznej Uniwersytetu im. Adama Mickiewicza
+Świat Gier Planszowych
+Stare Miasto w Warszawie
+Ford FT-B
+Teoria mnogości
+Tadeusz Chyliński
+Maciej Zimiński
+Synteza mowy
+Kuchnia wietnamska
+V Liceum Ogólnokształcące im. Adama Asnyka w Szczecinie
+Taternicki klub harcerzy
+Mirosław Szymkowiak
+Microsoft Windows
+Wolfgang Amadeusz Mozart
+Jacek Kaczmarski
+T-34
+Polskie Stowarzyszenie Przyjaciół Indian
+Władysław Podkowiński
+Krzysztof Komeda
+Polsat
+Pianista (film)
+Danuta Rinn
+Henryk Alber
+Egzamin maturalny
+Brutalna gra (film)
+Dniepr
+Imagine (środowisko programistyczne)
+Kuba Sienkiewicz
+Pidżama Porno
+Jan Raczkowski
+Spis cudzołożnic
+Dzieci wybiegły
+Dead Infection
+Jan Kiepura
+Kocham Polskę
+Paradoks Banacha-Tarskiego
+Programowanie funkcyjne
+Babie Doły
+1967 w filmie
+Gdzie przykazań brak dziesięciu
+Praetorians
+Naomi Klein
+Wszyscy jesteśmy podejrzani
+Stary Lubliniec
+Stanisław Staszewski
+Gajusz Juliusz Cezar
+Komputer osobisty
+Bożena Walter
+Szał uniesień
+Michał Żebrowski (aktor)
+MOS Technology SID
+Historia Bydgoszczy
+Aleksander Fredro
+Paulina Młynarska-Moritz
+Romantyczność (Mickiewicz)
+Karłów
+Pieskowa Skała
+Majka Jeżowska
+Janusz Gajos
+Ostatni kurs
+Jan Frycz
+Audley End
+Historia gier komputerowych
+Cicha jak ostatnie tchnienie
+Wałbrzych
+Enigma
+Grand Hotel w Sopocie
+Gramatyka języka polskiego
+Klan (serial telewizyjny)
+Wyrażenie regularne
+Młodzież Wszechpolska
+Zupa
+SenseOS
+Anna Prus
+Na dobre i na złe
+Tajny Hufiec Harcerzy
+Elżbieta Aleksiejewna (Ludwika Badeńska)
+Kalendarium II wojny nad Zatoką Perską
+Szybka Kolej Miejska w Warszawie
+Twierdza Kołobrzeg
+Basso continuo
+Szczeliniec Wielki
+Mury
+Karkonosze
+Instytut Historii Uniwersytetu im. Adama Mickiewicza
+Wspinaczka
+Bezrzecze (powiat policki)
+TVN
+Ultraprodukt
+Sztuczna inteligencja
+Logika matematyczna
+Electra (miesięcznik)
+P2P
+Kąkolówka
+Paweł Drumlak
+Sudety Środkowe
+Samolot myśliwski
+Legion Mickiewicza
+Wielka Orkiestra Świątecznej Pomocy
+Wiedźmin
+Ojciec chrzestny
+Dolina Prądnika
+Stanisława Celińska
+Agnieszka Włodarczyk
+Emil Mika
+Dupa Słonia
+Jerzy Owsiak
+Sara (film)
+Język formalny
+Historia Rzeszowa
+Quo vadis
+Dunaj
+Front wschodni (II wojna światowa)
+Big Cyc
+Zampol
+Rajdy przygodowe
+Ojcowski Park Narodowy
+Johann Sebastian Bach
+Mont Blanc
+Misja Harolda
+Cartoon Network
+Jak to jest zrobione?
+Agnieszka z Poitou
+Kubuś Puchatek
+Kolumna Zygmunta III Wazy w Warszawie
+Czarna Żmija
+Janosch
+Samo Życie
+Dolina Będkowska
+Świecie
+Tomasz Szwed
+Iwona Petry
+Polityka pronatalistyczna
+Bajki robotów
+Bolesław Prus
+Kajko i Kokosz
+Tomasz Beksiński
+Jerzy Matuszkiewicz
+Duszniki-Zdrój
+Trojak (góra)
+Jura
+Python
+Agnieszka Wagner
+Stanisław Tym
+Motorola
+Irena Sendlerowa
+86 bateria artylerii przeciwlotniczej
+Baranek Shaun
+Ratuj swoje miasto
+Made in Poland (grupa muzyczna)
+Ulica Górnośląska w Kaliszu
+Bezpieczeństwo teleinformatyczne
+Janusz Christa
+Piotr Czajkowski
+Wanda Rutkiewicz
+Muzyka elektroniczna
+Piotr Zelt
+Buszujący w zbożu
+Językoznawstwo
+Kara śmierci
+Historia nauki
+Perforacja
+Honor jest wasz Solidarni
+TMT
+Polmos Białystok
+Liga Sprawiedliwych Bez Granic
+Opole Lubelskie
+Gilotyna
+XIX Festiwal Polskich Filmów Fabularnych
+Bigos
+Commodore 64
+Gieorgij Żukow
+Simpsonowie: Wersja kinowa
+Roztoka (województwo dolnośląskie)
+V Liceum Ogólnokształcące im. Adama Mickiewicza w Częstochowie
+I Liceum Ogólnokształcące im. Adama Asnyka w Kaliszu
+Agnieszka Dygant
+Telesfor Mickiewicz
+Kolarstwo szosowe
+Munchkin
+Zupa pomidorowa
+Perl
+X-Men
+PictoChat
+Orle Gniazda
+Marka producenta
+Galew (powiat turecki)
+Rokoko
+Teresa Lipowska
+Adam Asnyk
+BMX
+Wikipedia
+Ruch Solidarności z Ubogimi Trzeciego Świata MAITRI
+Chinatown (film)
+Grzegorz Mielcarski
+Kujawianka
+Wii
+Jaworzno
+Bajtek
+Commodore International
+Historia Żelechowa
+Falangi Czarnego Porządku
+Przemysław Gintrowski
+Ośrodek religijny w Bydgoszczy
+Klecina
+Tygodnik Moralnego Niepokoju
+Pulp Fiction
+Dariusz Szubert
+Rezerwat przyrody Dolina Racławki
+Karabin maszynowy Chauchat
+Iliada
+Gołąbki (potrawa)
+Lądek-Zdrój
+Edyta Olszówka
+Atari ST
+Jaskinie Jury Krakowsko-Częstochowskiej
+Beata Michniewicz
+Publikacje Świadków Jehowy
+Kalendarium historii Grajewa
+Stonka ziemniaczana
+Wiedźmin (gra komputerowa)
+Awit Szubert
+Wojna plemników
+Cmentarz Osobowicki
+Jan Borysewicz (muzyk)
+Western
+Moonlight
+Śniadanie
+Sos majonezowy
+Historia kolei
+Emil Leon Post
+Jędrzej Wala starszy
+Żelechów
+Lizzie McGuire (serial telewizyjny)
+Leśny Park Kultury i Wypoczynku
+Institut national des Langues et Civilisations orientales
+Depeche Mode
+Rudawy Janowickie
+Kabaret Moralnego Niepokoju
+Przeciszów
+Hieronim ze Strydonu
+Klan Gordon
+Trochę poświęcenia
+Piotr Bielak
+Dębnik (województwo małopolskie)
+Tiglatpilesar I
+Dakotowie
+Kari Kamiya
+Yes
+Józef Babicki
+Tytus Flawiusz
+Playboy Polska (miesięcznik)
+Ghost Master
+Kość do gry
+W.I.T.C.H. Czarodziejki
+Czekając na Joe
+Kabała
+Powstanie chłopskie pod wodzą Kostki-Napierskiego w 1651
+Czołg
+Studio Voiceland
+Paradoks petersburski
+Teoria modeli
+Góry Sowie
+Kot burmski
+Radochów
+Michael Berkowitz
+Gloster Gladiator
+Rower
+Service de Documentation Exterieure et de Contre-espionnage
+Źródło (album)
+Bill i Ben
+Shrek
+Ślub
+Krzeszowice
+Aglomeracja warszawska
+Wojna w Osetii Południowej 2008
+13 posterunek
+Pociąg
+Rozstaw toru
+Biblioteka Cyfrowa Uniwersytetu Wrocławskiego
+Kraftwerk
+Cyberiada
+Wieczorynka
+Tak czy nie?
+Muzeum Rekordów i Osobliwości
+Hot dog
+Wieczny ogień
+HMS Arethusa (1935)
+Powieszenie
+Tarnogród
+Lokatorzy
+Fantastyczna Czwórka (serial animowany 2006)
+Instytut Prahistorii Uniwersytetu im. Adama Mickiewicza
+II wojna światowa w Afryce
+Dziadek do Orzechów
+Mroczne przygody Billy'ego i Mandy
+Blond (kolor)
+Zostać miss 2
+Koncerty instrumentalne
+Forsing
+Tadeusz Nowakowski (polityk)
+RS-232
+Baruch Kolski
+A ty co
+Tytus, Romek i A'Tomek
+Dolny Śląsk
+Marianne Faithfull
+Elementy
+Dorsz atlantycki
+Wampir
+Złoty puchar
+Podróże kulinarne Roberta Makłowicza
+Wilczyca (film)
+Sztuka iluzji
+Na krzywy ryj
+The Pirate Bay
+Operacja Achilles
+Zakład Karny Chełm
+Przemoc domowa
+Dyskografia Jacka Kaczmarskiego
+Żelazne Wrota (przełęcze)
+Wegetarianizm
+Lista odcinków serialu Detektywi
+II Liceum Ogólnokształcące im. Generałowej Zamoyskiej i Heleny Modrzejewskiej w Poznaniu
+Historia kolei w Niemczech
+Grudzień 2004 w sporcie
+Artemis Fowl
+Jaskółki i Amazonki
+Agnieszka Radwańska
+Jakub Böhme
+Kapusta kiszona
+Robbo
+Gwiazdy tańczą na lodzie
+Władysław Starewicz
+Czosnek pospolity
+Homeopatia
+Parki i tereny leśne w Bydgoszczy
+Pudel miniaturowy
+Sieć neuronowa
+PPS-Rewolucja Demokratyczna
+Ryszard Bacciarelli
+Epos o Gilgameszu
+Oko (opowieść)
+Jajko (kulinaria)
+Dzieciaki z klasy 402
+Externsteine
+Béla Bartók
+Żandarmeria Wojskowa
+SS Sołdek
+Przewody trakcyjne
+Zagubieni
+Roztoka Ryterska
+Trójkąt Sierpińskiego
+Selen
+Leniuchowo
+Henryk Chmielewski (rysownik)
+Tonpress
+Baranów Sandomierski
+Pär Lagerkvist
+TGV
+P.O.L.O.V.I.R.U.S.
+Spółka handlowa
+Sonic X
+Ślimaki w kuchni
+Postępowanie cywilne w Polsce
+Niemieckie nazwy polskich miejscowości
+Święci i błogosławieni Kościoła katolickiego
+
+
+QUERY: biegi ekstremalne
+Rajdy przygodowe
+Freerun
+Mark Bingham
+
+
+QUERY: szczeliniec mały
+Szczeliniec Mały
+Szczeliniec Wielki
+Jerzykowice Wielkie
+Góry Stołowe
+Skalniak (szczyt)
+Najwyższe szczyty w Polsce
+Wodospady Pośny
+Pasterka (województwo dolnośląskie)
+Sudety Środkowe
+
+
+QUERY: szczeliniec wielki
+Szczeliniec Mały
+Szczeliniec Wielki
+Jerzykowice Wielkie
+Skalne Wrota
+Góry Stołowe
+Franz Pabel
+Błędne Skały
+Rezerwat przyrody Wrota Pośny
+Karłów
+Wzgórza Ścinawskie
+Skalniak (szczyt)
+Ścinawka Górna
+Pasterka (województwo dolnośląskie)
+Wodospady Pośny
+Gmina Radków (powiat kłodzki)
+Externsteine
+Korona Sudetów
+Sudety Środkowe
+Najwyższe szczyty w Polsce
+Kudowa-Zdrój
+Szlak Saara-Śląsk
+Duszniki-Zdrój
+Dolny Śląsk
+Korona Sudetów Polskich
+Pociąg
+
+
+QUERY: sztuczna ściana wspinaczkowa
+Sztuczna ściana wspinaczkowa
+Kielich (ściana wspinaczkowa w Lubinie)
+Zawody wspinaczkowe
+Direttissima
+Wspinaczka
+Niebezpieczeństwa wspinaczki
+El Capitan
+Asekuracja na wędkę
+Mniszek (Góry Wałbrzyskie)
+Mont Aiguille
+Wspinaczka lodowa
+Wieża ciśnień przy ulicy Kasprowicza we Wrocławiu
+Centrum Manufaktura
+
+
+QUERY: gry planszowe
+BoardGameGeek
+Gra planszowa
+Tannhäuser (gra planszowa)
+Novina (wydawca gier planszowych)
+Keltis
+Obcy (gra planszowa)
+Thurn und Taxis (gra planszowa)
+Niagara (gra planszowa)
+Świat Gier Planszowych
+Kuźnia Gier
+Potyczka (gra planszowa)
+Historia gier komputerowych
+Ratuj swoje miasto
+BattleTech
+Magia i Miecz (gra)
+Encore (wydawca gier planszowych)
+Labirynt Śmierci (gra)
+Ryzyko (gra)
+Blue Moon City
+Programy komputerowe do gry w go
+Cashflow 101
+Mastermind (gra planszowa)
+Chińczyk (gra planszowa)
+Halma
+Spiel des Jahres
+Ticket to Ride
+Japonia
+Kość do gry
+Pente
+Ojciec chrzestny
+Jumanji (serial animowany)
+Friedemann Friese
+
+
+QUERY: skalne miasta w czechach
+Skalne miasto
+Błędne Skały
+Gmina Radków (powiat kłodzki)
+Wałbrzych
+Góry Stołowe
+Sudety Środkowe
+Dolny Śląsk
+
+
+QUERY: maczuga herkulesa
+Maczuga skalna
+Maczuga Herkulesa
+Fortepian (skała)
+Brama Królewska w Szczecinie
+Mitrydates I
+Niebieski Szlak Rowerowy Okrężny "Pieskowa Skała"
+Dolina Prądnika
+Ojcowski Park Narodowy
+Jura
+Rokoko
+
+
+QUERY: góry stołowe
+Góra stołowa (geomorfologia)
+Góra lodowa
+Góry Stołowe
+Błędne Skały
+Wałbrzych
+Kasztanowiec zwyczajny
+Historia gier komputerowych
+Krotoszyn
+Freddie Mercury
+
+
+QUERY: przybory szkolne
+Skala (przedsiębiorstwo)
+Piórnik
+Polski Komitet Pomocy Społecznej
+Japonia
+Polityka pronatalistyczna
+Ruch Solidarności z Ubogimi Trzeciego Świata MAITRI
+Galew (powiat turecki)
+Egzamin maturalny
+Józef Babicki
+Polskie Stowarzyszenie Przyjaciół Indian
+Pismo chińskie
+
+
+QUERY: www 1939
+Www.1939.com.pl
+Marcin Ciszewski
+Historia polskiej żandarmerii
+Bydgoszcz
+Wałbrzych
+
+
+QUERY: zamek błyskawiczny
+Zamek błyskawiczny
+Metoda zamka błyskawicznego
+Sens wyrazu
+Zampol
+Piórnik
+Torba (worek)
+Japonia
+Ramoneska
+Śpiwór
+Gwara łódzka
+Stuptuty
+1913
+Sweter
+Kradzież z włamaniem
+Herman von Balk
+Akalabeth
+Mystery House
+Morskie ubranie ratunkowe
+Barnett Newman
+Sobiesław Zasada
+Szew (anatomia)
+Kampania wrześniowa
+Spodnie
+Lista bohaterów serialu animowanego Ed, Edd i Eddy
+Michael Jackson
+Komórka
+
+
+QUERY: pytanie piłata
+Pär Lagerkvist
+Anagram
+Szpital na perypetiach
+
+
+QUERY: paradoks skazanego
+Paradoks
+Paradoks skazanego
+Zagubieni
+
+
+QUERY: armia zawodowa w polsce
+Polska
+Niemcy
+1992
+1917
+1918
+1913
+Stosunek do służby wojskowej
+Polska Partia Pracy
+Pobór (wojsko)
+George Patton
+Bydgoszcz
+Historia polskiej żandarmerii
+Myśl.pl
+Stanisław Lem
+Historia Warszawy
+VIII Liceum Ogólnokształcące im. Władysława IV w Warszawie
+Rogatywka
+Żelechów
+
+
+QUERY: gry sportowe na konsolę
+Gra na komputery osobiste
+Wii Sports
+Mario Golf: Toadstool Tour
+Creative Assembly
+
+
+QUERY: dowcipy o blondynkach
+Blond (kolor)
+Tygodnik Moralnego Niepokoju
+Lista odcinków serialu Detektywi
+Kabaret Moralnego Niepokoju
+
+
+QUERY: polscy komandosi
+Audley End
+Władysław Smrokowski
+I Liceum Ogólnokształcące im. Jana Kasprowicza w Inowrocławiu
+Sara (film)
+Operacja Achilles
+Alianci II wojny światowej
+Karabin maszynowy Chauchat
+Sztuka przetrwania
+HMS Arethusa (1935)
+Kalendarium II wojny nad Zatoką Perską
+
+
+QUERY: imieniny hanny
+15 października
+26 lipca
+26 września
+Anna
+Tonpress
+
+
+QUERY: potrawa z kapusty
+Kapusta kiszona
+Gołąbki (potrawa)
+Barszcz biały z kiszonej kapusty
+Kulebiak
+Niemcy
+Kimchi
+Bigos
+Jarmuż
+Ciocia Jolesch
+Podróże kulinarne Roberta Makłowicza
+Kąkolówka
+Boże Narodzenie na Ukrainie
+Groch zwyczajny
+Kuchnia niemiecka
+Hot dog
+Kiszonka
+Dieta wątrobowa
+Hottentottenstottertrottelmutterbeutelrattenlattengitterkofferattentäter
+Algorytm
+Takoyaki
+
+
+QUERY: wojskowe nakrycia głowy
+Mazepynka
+Giwer
+Kepi
+Rogatywka
+Bermyca
+Black Watch
+Czako
+Moherowe berety
+Captain Jack
+Zawołanie bojowe klanów szkockich
+
+
+QUERY: lina bliźniacza
+Testowanie lin wspinaczkowych
+Lina (wspinaczka)
+Reversino
+Przewody trakcyjne
+RMS Titanic
+
+
+QUERY: algorytm k najbliższych sąsiadów
+Algorytm k najbliższych sąsiadów
+Klasyfikacja statystyczna
+Prognozowanie analogowe
+
+
+QUERY: księga xiii pana tadeusza
+XIII Księga Pana Tadeusza
+Biblia
+Baśń o trzech braciach i królewnie
+13 (liczba)
+Aleksander Fredro
+Średniowiecze
+Iliada
+
+
+QUERY: problem np zupełny
+Kompletność Turinga
+Problem NP
+Problem podzbioru o zadanej sumie
+Hipoteza Churcha-Turinga
+I wojna światowa
+Algorytm
+Ścieżka Hamiltona
+Permanent
+Obliczenia równoległe
+Gajusz Juliusz Cezar
+Dorsz atlantycki
+
+
+QUERY: problemy nierozstrzygalne
+Problem odpowiedniości Posta
+Problem decyzyjny (teoria obliczeń)
+Problem nierozstrzygalny
+Automatyczne dowodzenie twierdzeń
+Problem spełnialności
+Rozstrzygalność
+Problem stopu
+Teoria obliczeń
+Język bezkontekstowy
+Scjentyzm
+Dowód poprawności algorytmu
+Teoria obliczalności
+Epoché
+Algorytm
+Programy komputerowe do gry w go
+Język formalny
+Thoralf Skolem
+
+
+QUERY: nowoczesny patriotyzm
+Kocham Polskę
+I wojna światowa
+Konstanty Borzęcki
+Liga Sprawiedliwych Bez Granic
+Jerzy Kochan
+Hufiec ZHP Warszawa Mokotów
+Historia Warszawy
+Młodzież Wszechpolska
+Béla Bartók
+
+
+QUERY: księga xiii
+XIII Księga Pana Tadeusza
+Biblia
+Księga Rodzaju
+Księgi sybillińskie
+Elementy
+Henryk Chmielewski (rysownik)
+Tytus, Romek i A'Tomek
+Zohar
+Klemens XIII
+13 (liczba)
+Baśń o trzech braciach i królewnie
+Historiografia
+Tekstura gotycka
+Średniowiecze
+Szczawin (województwo dolnośląskie)
+Aleksander Fredro
+Kabała
+Historia interpunkcji
+Hieronim ze Strydonu
+Gajusz Juliusz Cezar
+Zelów
+Iliada
+Historia Warszawy
+Bezrzecze (powiat policki)
+Chorał gregoriański
+Dialekt północnokresowy
+Historia Rzeszowa
+Historia matematyki
+Kara śmierci
+Historia nauki
+Protobułgarzy
+
+
+QUERY: rudy 102
+Ruda Maleniecka
+Rosja
+Babie Doły
+Playboy Polska (miesięcznik)
+Czołg
+
+
+QUERY: Prawo pierwszej nocy
+Noc
+Polska
+Noc poślubna
+Tobiaszowe noce
+II wojna światowa
+Prawo pierwszej nocy
+1920
+I wojna światowa
+Japonia
+1914
+1918
+Poznań
+1916
+Lublin
+Opowieści o pilocie Pirxie
+Bückwitz
+Ślub
+Buszujący w zbożu
+Adam Asnyk
+Historia Rzeszowa
+RMS Titanic
+Historia Warszawy
+Gajusz Juliusz Cezar
+Kampania wrześniowa
+Ostatni kurs
+Pidżama Porno
+Kolumna Zygmunta III Wazy w Warszawie
+Bydgoszcz
+Agnieszka Osiecka
+Szpital na perypetiach
+Shrek
+Jan Kiepura
+Epos o Gilgameszu
+Wesele Figara (KV 492)
+Budda Siakjamuni
+Power, Corruption & Lies
+Wałbrzych
+Zostać miss 2
+Michael Jackson
+Powstanie chłopskie pod wodzą Kostki-Napierskiego w 1651
+II wojna światowa w Afryce
+Nowe przygody Kubusia Puchatka
+VIII Liceum Ogólnokształcące im. Władysława IV w Warszawie
+Klan (serial telewizyjny)
+Zagubieni
+Leszek Bogdanowicz
+Detroit Red Wings
+W.I.T.C.H. Czarodziejki
+Twierdza Kołobrzeg
+Kalendarium II wojny nad Zatoką Perską
+Aleksandra Fiodorowna (Alicja Heska)
+Cartoon Network
+Babie Doły
+Historia Żelechowa
+Wojna w Osetii Południowej 2008
+Jaworzno
+Kabała
+Gramatyka języka polskiego
+Czarna Żmija
+Publikacje Świadków Jehowy
+Rokoko
+Ośrodek religijny w Bydgoszczy
+
+
+QUERY: stanowisko zjazdowe
+Stanowisko (wspinaczka)
+Ring (wspinaczka)
+Sprzęt wspinaczkowy
+Reverso
+Reversino
+Przyrząd asekuracyjny
+Karabinek (wspinaczka)
+Piekoszów
+Parki i tereny leśne w Bydgoszczy
+
+
+QUERY: przyrząd asekuracyjny
+Przyrząd asekuracyjny
+Współczynnik odpadnięcia
+Sprzęt wspinaczkowy
+Gri-gri
+Friend (wspinaczka)
+Półwyblinka
+Asekuracja (wspinaczka)
+Ósemka (węzeł)
+Kubek (wspinaczka)
+Ósemka (wspinaczka)
+Niebezpieczeństwa wspinaczki
+Lina (wspinaczka)
+Via ferrata
+Wspinaczka lodowa
+Czekając na Joe
+
+
+QUERY: góry sokole
+Polska
+Sokół (góra)
+Maczuga Herkulesa
+Góry Sowie
+Wałbrzych
+Babie Doły
+Jaworzno
+Dunaj
+
+
+QUERY: mirmił
+Mirmił
+Złoty puchar
+Kajko i Kokosz
+Strachy na Lachy
+Janusz Christa
+Pidżama Porno
+
+
+QUERY: wiedźmin geralt
+Geralt z Rivii
+Wiedźmin
+Głos rozsądku
+Okruch lodu
+Trochę poświęcenia
+Coś więcej
+Saga o wiedźminie
+Ziarno prawdy
+Ostatnie życzenie (opowiadanie)
+Kraniec świata
+Czteroróg
+Granica możliwości
+Wiedźmin (opowiadanie)
+Wiedźmin (film)
+Chrzest ognia
+Kwestia ceny
+Wieczny ogień
+Jaruga
+Pani Jeziora (utwór)
+Kompania wiedźmina
+Mniejsze zło
+Wiedźmin (serial telewizyjny)
+Bitwa o most na Jarudze
+Gerald
+Wiedźmin (gra komputerowa)
+Michał Żebrowski (aktor)
+Jacek Rozenek
+
+
+QUERY: stanowisko asekuracyjne
+Stanowisko (wspinaczka)
+Współczynnik odpadnięcia
+Punkt asekuracyjny
+Sprzęt wspinaczkowy
+Wyciąg (wspinaczka)
+Przyrząd asekuracyjny
+Asekuracja (wspinaczka)
+Niebezpieczeństwa wspinaczki
+Wyblinka (węzeł)
+Asekuracja na wędkę
+Taśma (wspinaczka)
+Ring (wspinaczka)
+Góry Stołowe
+Karabinek (wspinaczka)
+Czekając na Joe
+Klan Gordon
+
+
+QUERY: janek kos
+Janek Kos
+Stanisław Jasiukiewicz
+Marusia
+Janusz Gajos
+Dane Zajc
+Babie Doły
+
+
+QUERY: iwona petry
+Iwona Petry
+Szamanka (film)
+28 maja
+Andrzej Żuławski
+Noty biograficzne - Pe
+Playboy Polska (miesięcznik)
+Tonpress
+
+
+QUERY: zderzenie z górą lodową
+Stanley Lord
+RMS Titanic
+Henry Wilde
+William Thomas Stead
+Prekognicja
+Statki typu Olympic
+15 kwietnia
+X-Men
+
+
+QUERY: przygody psa cywila
+Przygody psa Cywila
+Henryk Chmielewski (rysownik)
+
+
+QUERY: Główne nurty marksizmu
+Polska
+Materializm dialektyczny
+Austromarksizm
+Leszek Kołakowski
+Manifest komunistyczny
+Charles Fourier
+
+
+QUERY: lina pojedyncza
+Lina (wspinaczka)
+Testowanie lin wspinaczkowych
+Lin Dan
+Reverso
+Ma Lin
+Przewody trakcyjne
+I wojna światowa
+Gri-gri
+Historia interpunkcji
+Ronald Susilo
+Puente del Alamillo
+6 Wileńska Brygada AK
+Tyraliera
+Historia kolei
+Rośliny kopalne
+Phreaking
+Koleje aglomeracyjne w Południowym Kantō
+Homeworld 2
+Rozstaw toru
+Mgławica planetarna
+Autobusy w Gdańsku
+Dunaj
+Antyaliasing
+Babie Doły
+Grudzień 2004 w sporcie
+Historia kolei w Afryce
+Enigma
+Roztoka (województwo dolnośląskie)
+Pismo chińskie
+TGV
+Homeopatia
+
+
+QUERY: rzut symetryczną monetą
+P-wartość
+Lematy Borela-Cantellego
+Paradoks petersburski
+Szyfr Vernama
+Przegląd zagadnień z zakresu statystyki
+
+
+QUERY: rzut kostką do gry
+Labirynt Śmierci (gra)
+Kość do gry
+Chińczyk (gra planszowa)
+Przestrzeń zdarzeń elementarnych
+Jumanji (serial animowany)
+Zdarzenie losowe niemożliwe
+
+
+QUERY: armia boga ii
+Armia Boga II
+Polska
+II wojna światowa
+1920
+1993
+1992
+Rosja
+Russell Wong
+1917
+1918
+Japonia
+Gott mit uns
+Kathryn Morris
+1905
+1915
+1914
+Tom Towles
+1916
+1913
+Barisan Hizbullah
+Viggo Mortensen
+Gajusz Juliusz Cezar
+Oktawian August
+Brittany Murphy
+Meksyk
+Naczelna Komenda Organizacji Harcerskiej na Warmię i Mazury
+Tonpress
+Dunaj
+Słoń bojowy
+Kalendarium II wojny nad Zatoką Perską
+Terroryzm
+Protobułgarzy
+Kość do gry
+Michael Jackson
+
+
+QUERY: armia boga
+Armia Boga II
+Polska
+II wojna światowa
+Armia Boga
+1920
+Lucyfer
+Zadruga (grupa muzyczna)
+1993
+1992
+Rosja
+1917
+Wojna Kurukszetra
+Gott mit uns
+Japonia
+Russell Wong
+1918
+1915
+1914
+Kathryn Morris
+1905
+1916
+1913
+Tom Towles
+Christopher Walken
+Barisan Hizbullah
+World Eaters
+Gajusz Juliusz Cezar
+Viggo Mortensen
+Oktawian August
+Brittany Murphy
+Barbie w Dziadku do orzechów
+Hymn Sudanu
+Meksyk
+Dunaj
+Słoń bojowy
+Naczelna Komenda Organizacji Harcerskiej na Warmię i Mazury
+Protobułgarzy
+Terroryzm
+Kość do gry
+Kalendarium II wojny nad Zatoką Perską
+Ansel Adams
+Michael Jackson
+Tonpress
+
+
+QUERY: kukawka kalifornijska
+Kukawka kalifornijska
+Nowy Meksyk
+Wiluś E. Kojot i Struś Pędziwiatr
+Kukułkowate
+
+
+QUERY: unia
+Polska
+Niemcy
+1993
+1905
+1992
+Rosja
+Rocznik statystyczny
+1917
+Dialekt północnokresowy
+1914
+Lublin
+Język polski
+Korona Ziemi
+Mont Blanc
+Państwa Osi
+Bydgoszcz
+Alianci II wojny światowej
+Historia Warszawy
+VIII Liceum Ogólnokształcące im. Władysława IV w Warszawie
+Wii
+Ruch Chorzów
+Kara śmierci
+Zakład Kultury i Myśli Politycznej Uniwersytetu im. Adama Mickiewicza
+Przypisanie
+Wydanie Wii
+Dorsz atlantycki
+Wojna w Osetii Południowej 2008
+Szpital na perypetiach
+Homeopatia
+Tarnogród
+
+
+QUERY: nowak
+1946
+Honor jest wasz Solidarni
+1914
+Agnieszka Wagner
+Prawo i pięść
+Mistrzostwa Polski w szachach błyskawicznych
+Galew (powiat turecki)
+Czy te oczy mogą kłamać
+Bożena Walter
+5 maja
+28 listopada
+Agnieszka Krukówna
+Powiat ząbkowicki
+Henryk Talar
+Stanisław Jasiukiewicz
+13 stycznia
+Wiedźmin (film)
+Jerzy Owsiak
+26 września
+Korneliusz Jemioł
+Klan (serial telewizyjny)
+Karol Borsuk
+OQL
+Piotr Zelt
+Wacław Kowalski
+XIX Festiwal Polskich Filmów Fabularnych
+Wiedźmin (serial telewizyjny)
+Przemysław Gintrowski
+Kąkolówka
+Liga Sprawiedliwych Bez Granic
+Z życia nastoletniego robota
+Nagroda literacka Nike
+Na dobre i na złe
+Rogatywka
+Lokatorzy
+Krotoszyn
+13 posterunek
+Wilczyca (film)
+I Liceum Ogólnokształcące im. Adama Asnyka w Kaliszu
+Ryszard Bacciarelli
+Przemoc domowa
+Playboy Polska (miesięcznik)
+Sowina (powiat jasielski)
+Zmarli w roku 2008
+Mroczne przygody Billy'ego i Mandy
+Lista hokeistów Detroit Red Wings
+Ośrodek religijny w Bydgoszczy
+Zmarli w roku 2006
+Tonpress
+
+
+QUERY: piłka
+Warszawa
+Polska
+B-klasa polska w piłce nożnej
+Sens wyrazu
+Rosja
+Poznań
+Japonia
+I wojna światowa
+Bydgoszcz
+1913
+Szwajcarski nóż oficerski
+Lublin
+Novina (wydawca gier planszowych)
+Ruch Chorzów
+Baranek Shaun
+10 stycznia
+Rzut monetą
+Mistrzostwa Świata w Piłce Nożnej 1982 (składy)
+Meksyk
+Jak to jest zrobione?
+Wałbrzych
+Paweł Drumlak
+Kari Kamiya
+VIII Liceum Ogólnokształcące im. Władysława IV w Warszawie
+Grudzień 2004 w sporcie
+Świecie
+Lourdes Domínguez Lino
+Dane Zajc
+Jaworzno
+Atari
+Sark
+Krotoszyn
+Historia gier komputerowych
+Sztuka iluzji
+Mistrzowie Szkocji w piłce nożnej
+Kontroler gier
+Lizzie McGuire (serial telewizyjny)
+Krzeszowice
+Zmarli w roku 2008
+Leniuchowo
+Tarnogród
+Gramatyka języka polskiego
+Agnieszka Radwańska
+Zmarli w roku 2006
+
+
+QUERY: institute
+Paul Cohen
+1915
+Europejski Instytut Badań Wirusów Komputerowych
+Maciej Słomczyński
+Naomi Klein
+Sather
+Donald Knuth
+Sztuczna inteligencja
+Instytut Informatyki im. Maxa Plancka
+The Warrior
+Zbigniew Herbert
+George Patton
+Nerwiakowłókniakowatość typu 1
+Hieronim ze Strydonu
+Pulp Fiction
+SAS 4GL
+Russell Crowe
+Przewody trakcyjne
+
+
+QUERY: mity
+Miejska legenda
+Gott mit uns
+Boo
+Japonia
+Leszek Kołakowski
+CakePHP
+Logo (język programowania)
+Problem NP-trudny
+Iliada
+Kuchnia niemiecka
+Sztuczna inteligencja
+Daniel Olbrychski
+Coś więcej
+Jądro systemu operacyjnego
+Kampania wrześniowa
+BWV
+RMS Titanic
+Dunaj
+Dziki Bill Hickok
+Front wschodni (II wojna światowa)
+Cmentarzysko słoni
+Mont Aiguille
+Seks
+Jacek Kaczmarski
+Gra na komputery osobiste
+Historia gier komputerowych
+Epos o Gilgameszu
+Ruby on Rails
+Andy Warhol
+Kość do gry
+Dorsz atlantycki
+Publikacje Świadków Jehowy
+
+
+QUERY: węgiel
+Polska
+Niemcy
+Kredka
+Rosja
+1985
+Japonia
+I wojna światowa
+Perlit (stop)
+1972
+1914
+Wałbrzych
+Meksyk
+Sudety Środkowe
+Czako
+SS Sołdek
+Góry Stołowe
+Archiwalne audycje TVP
+Rośliny kopalne
+RMS Titanic
+Jaworzno
+Teresa Lipowska
+Mgławica planetarna
+Wacław Kowalski
+Kałmucja
+Jaskółki i Amazonki
+Pastel
+Dunaj
+Karkonosze
+Dolny Śląsk
+Góry Sowie
+Awit Szubert
+Noc
+Historia kolei
+Historia nauki
+Service de Documentation Exterieure et de Contre-espionnage
+Roztoka Ryterska
+Programy TVP
+Roztoka (województwo dolnośląskie)
+Język czeski
+Andy Warhol
+Komórka
+
+
+QUERY: agnieszka osiecka
+Agnieszka Osiecka
+Agnieszka
+Ballada o pancernych
+Agnieszka Dygant
+Jerzy Matuszkiewicz
+Dikanda
+Leszek Bogdanowicz
+Henryk Alber
+Prawo i pięść
+Majka Jeżowska
+1997 w muzyce
+Danuta Rinn
+Moonlight
+Dyskografia Jacka Kaczmarskiego
+
+
+QUERY: piosenki agnieszki osieckiej
+Agnieszka Osiecka
+Agnieszka
+Agnieszka Dygant
+Jerzy Matuszkiewicz
+Majka Jeżowska
+Leszek Bogdanowicz
+Henryk Alber
+Danuta Rinn
+Prawo i pięść
+1997 w muzyce
+Dyskografia Jacka Kaczmarskiego
+
+
+QUERY: test turinga
+Test Turinga
+Michael O. Rabin
+Chatbot
+Efekt Elizy
+Bot (program)
+Lista eponimów
+Problem decyzyjny (teoria obliczeń)
+Sztuczna inteligencja
+Historia nauki
+
+

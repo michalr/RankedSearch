@@ -55,6 +55,9 @@ def read_morfologik(morfologik_file):
         pbar.update(i)
     pbar.finish()
     return morfo
+
+def polish_lower(s):
+    return s.lower().replace("Ą", "ą").replace("Ć", "ć").replace("Ę", "ę").replace("Ł", "ł").replace("Ń", "ń").replace("Ó", "ó").replace("Ś", "ś").replace("Ż", "ż").replace("Ź", "ź")
                 
 def parse_articles(art_file, morfologik_object):
     """
@@ -66,7 +69,7 @@ def parse_articles(art_file, morfologik_object):
         tf = {}
         words_list = regex.findall(article)
         for word in words_list:
-            base_forms = [w.lower() for w in morfologik_object.get(word, [word])]
+            base_forms = [polish_lower(w) for w in morfologik_object.get(word, [word])]
             for base in base_forms:
                 tf[base] = tf.setdefault(base, 0) + 1
         for base in tf.keys():
@@ -78,7 +81,7 @@ def parse_articles(art_file, morfologik_object):
                ' ', FileTransferSpeed()]
     pbar = ProgressBar(widgets=widgets, maxval=int(getoutput("wc -l %s" % art_file.name).split()[0])).start()
     i = 0
-    regex = re.compile("[a-zA-Z0-9_ąśćęźżółń]+")
+    regex = re.compile("[a-zA-Z0-9_ąśćęźżółńĄŚĆĘŹŻÓŁŃ]+")
     article = ""
     title = ""
     res = {}
